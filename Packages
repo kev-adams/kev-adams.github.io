@@ -1,0 +1,3367 @@
+Author: pNre <aria@pnre.co>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Aria 2 (iOS 8.4+)
+Package: co.pnre.aria2
+Conflicts: org.thebigboss.aria
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.4), org.thebigboss.libcolorpicker
+Version: 1.0.6-1
+Architecture: iphoneos-arm
+Description: Music app the way it should have been
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=aria2Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=aria2Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
+dev: corelab
+Installed-Size: 1222
+Icon: file:///Library/PreferenceBundles/Aria2Preferences.bundle/Aria2@2x.png
+Size: 405620
+MD5sum: 0a59c73de4c51088eaf09523399f20b9
+Filename: debs/co.pnre.aria2_v1.0.6-1_iphoneos-arm_julioverne.deb
+
+Package: com.a3tweaks.auxo-le
+Name: Auxo Legacy Edition
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001), applist (>= 1.5.9), preferenceloader (>= 2.2.2)
+Conflicts: com.rpetrich.sectional
+Replaces: com.rpetrich.sectional
+Architecture: iphoneos-arm
+Description: A modern app switcher in control center
+Maintainer: thebigboss.org <http://thebigboss.org>
+Author: A3Tweaks <auxole-support@a3tweaks.com>
+Section: Tweaks
+Tag: cydia::commercial
+Homepage: http://rpetri.ch/cydia/auxo/
+Depiction: http://rpetri.ch/cydia/auxo/
+dev: rpetrich
+Version: 1.1
+Installed-Size: 1060
+Size: 436748
+MD5sum: 1c508d248f0106fa3fab8f9727cf7428
+Filename: debs/com.a3tweaks.auxo-le_v1.1_iphoneos-arm_julioverne.deb
+
+Package: com.baileyseymour.appdye2
+Conflicts: com.baileyseymour.appdye
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist, org.thebigboss.libcolorpicker
+Name: AppDye 2 (iOS 9)
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: colorize UI to app icon or custom color
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appdye2Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appdye2Dp
+Installed-Size: 677
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: atomikpanda <appdye@baileyseymour.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: baileyseymour
+Tag: cydia::commercial, purpose::extension
+Icon: file:///Library/PreferenceBundles/AppDye2Prefs.bundle/appdye2prefs@2x.png
+Size: 203386
+MD5sum: 15530d120d4572644a92fbad2f3ff486
+Filename: debs/com.baileyseymour.appdye2_v1.0.1_iphoneos-arm_julioverne.deb
+
+Package: com.booleanmagic.displayrecorder
+Name: Display Recorder
+Architecture: iphoneos-arm
+Description: Record the display in real-time, send to camera roll, web interface, ProTapper-style touch circles and Activator integration
+Depiction: http://rpetri.ch/cydia/displayrecorder/
+Website: http://rpetri.ch/cydia/displayrecorder/
+Maintainer: Ryan Petrich <rpetrich+displayrecorder@gmail.com>
+Author: Ryan Petrich <rpetrich+displayrecorder@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libactivator (>= 1.9.9), gdata-objectivec-client | firmware (>= 7.0), firmware (>= 3), openssl, firmware (<< 9.9), com.rpetrich.rocketbootstrap (>= 1.0.1) | firmware (<< 7.0), com.a3tweaks.flipswitch (>= 1.0.5)
+Tag: cydia::commercial
+Section: System
+dev: rpetrich
+Version: 1.3.21
+Installed-Size: 2476
+Size: 910110
+MD5sum: d952ac41ae66fe07d8da710568f0fda4
+Filename: debs/com.booleanmagic.displayrecorder_v1.3.21_iphoneos-arm_julioverne.deb
+
+Author: Ma Jun <majun3@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Dock
+Package: com.clezz.dock
+Conflicts: app.weiphone.clezz.dock, com.clezz.dock-beta
+Replaces: app.weiphone.clezz.dock, com.clezz.dock-beta
+Section: Tweak
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), preferenceloader
+Version: 2.2.11
+Architecture: iphoneos-arm
+Description: Shortcuts, app switcher & multi-tasking management for iOS.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dockData
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dockData
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: clezz
+Installed-Size: 2132
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Library/PreferenceBundles/DockSettings.bundle/Icon-small@2x.png
+Size: 1481552
+MD5sum: dbab8a7164388f3be9e29dc7434bc4e1
+Filename: debs/com.clezz.dock_v2.2.11_iphoneos-arm_julioverne.deb
+
+Author: Ma Jun <majun3@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: iUnlock
+Package: com.clezz.iunlock
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Version: 1.0.6
+Architecture: iphoneos-arm
+Description: Custom unlock animation and sound
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iunlockDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iunlockDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: clezz
+Installed-Size: 674
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:///Library/PreferenceBundles/iUnlockSettings.bundle/Icon@2x.png
+Size: 200510
+MD5sum: 03c8e63250ea5c7018a699471cc97d0a
+Filename: debs/com.clezz.iunlock_v1.0.6_iphoneos-arm_julioverne.deb
+
+Name: QuickDo (Activator)
+Package: com.clezz.qdf
+Architecture: iphoneos-arm
+Description: Gestures, shortcuts, toggles, app switcher and multitasking management for iOS.
+Homepage: http://www.clezz.com/quickdo/cydia_page.html?v=3.9.4
+Depiction: http://www.clezz.com/quickdo/cydia_page.html?v=3.9.4
+Maintainer: Clezz.com <majun3@gmail.com>
+Author: Ma Jun <majun3@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 5.0), preferenceloader (>= 2.0), com.a3tweaks.flipswitch
+Conflicts: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.quickdo, com.clezz.clezzqd, com.clezz.qda, com.clezz.qdb, com.clezz.qdc, com.clezz.qdd, com.clezz.qde
+Replaces: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.quickdo, com.clezz.clezzqd, com.clezz.qda, com.clezz.qdb, com.clezz.qdc, com.clezz.qdd, com.clezz.qde
+Icon: file:///Library/PreferenceBundles/QuickDoSettings.bundle/Icon-small.png
+Version: 3.9.4
+Installed-Size: 6524
+Size: 1736378
+MD5sum: 5a311ee554d221f221839165f8234068
+Filename: debs/com.clezz.qdf_v3.9.4_iphoneos-arm_julioverne.deb
+
+Package: com.clezz.qrc.messages
+Name: Messages (iOS 8 & 9)
+Architecture: iphoneos-arm
+Description: Quick reply and compose for Messages / 信息快捷回复和快捷发送
+Depends: mobilesubstrate, firmware (>=8.0), preferenceloader (>= 2.0), com.clezz.qrc (>= 1.1.5~beta1)
+Maintainer: Clezz.com <majun3@gmail.com>
+Author: Ma Jun <majun3@gmail.com>
+Section: Tweaks
+Homepage: http://www.clezz.com/qrcmessages/cydia_page.html?v=1.3.1~beta1
+Depiction: http://www.clezz.com/qrcmessages/cydia_page.html?v=1.3.1~beta1
+Icon: file:////Library/PreferenceBundles/QRCMessagesSettings.bundle/Icon-small@2x.png
+Version: 1.3.1~beta1
+Installed-Size: 568
+Size: 95138
+MD5sum: 9f34a2f0dd23cbe70bfb4321bf75f561
+Filename: debs/com.clezz.qrc.messages_v1.3.1beta1_iphoneos-arm_julioverne.deb
+
+Package: com.clezz.qrc.qq
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0), com.clezz.qrc (>= 1.1.3)
+Name: QRC for QQ
+Version: 1.0.3-4
+Architecture: iphoneos-arm
+Description: Quick reply and compose for QQ / QQ快捷回复和快捷发送
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=qrcforqqDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=qrcforqqDp
+Installed-Size: 531
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ma Jun <majun3@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: clezz
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Icon: file:///Library/PreferenceBundles/QRCQQSettings.bundle/Icon-small@2x.png
+Size: 119146
+MD5sum: 4f3fb727383aef2df17d3193e46775d9
+Filename: debs/com.clezz.qrc.qq_v1.0.3-4_iphoneos-arm_julioverne.deb
+
+Package: com.clezz.qrc.wechat
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0), com.clezz.qrc (>= 1.1.5)
+Name: QRC for WeChat
+Version: 1.0.4
+Architecture: iphoneos-arm
+Description: Quick reply and compose for WeChat / 微信快捷回复和快捷发送
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=qrcforwechatDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=qrcforwechatDp
+Installed-Size: 524
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ma Jun <majun3@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: clezz
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Icon: file:///Library/PreferenceBundles/QRCWeChatSettings.bundle/Icon-small@2x.png
+Size: 94674
+MD5sum: 3f2d127c7e34b883e2c678608e40d577
+Filename: debs/com.clezz.qrc.wechat_v1.0.4_iphoneos-arm_julioverne.deb
+
+Author: Ma Jun <majun3@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: QuickCall
+Package: com.clezz.quickcall
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: Call from anywhere / 任何地方快速拨打电话
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=quickcallDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=quickcallDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: clezz
+Installed-Size: 1033
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:///Library/PreferenceBundles/QuickCallSettings.bundle/Icon@2x.png
+Size: 563046
+MD5sum: bd73ab9c59c432e9f376680d2dd0169a
+Filename: debs/com.clezz.quickcall_v1.0.3_iphoneos-arm_julioverne.deb
+
+Name: QuickDo
+Package: com.clezz.quickdo
+Architecture: iphoneos-arm
+Description: Gestures, shortcuts, toggles, app switcher and multitasking management for iOS.
+Homepage: http://www.clezz.com/quickdo/cydia_page.html?v=3.9.4
+Depiction: http://www.clezz.com/quickdo/cydia_page.html?v=3.9.4
+Maintainer: Clezz.com <majun3@gmail.com>
+Author: Ma Jun <majun3@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 5.0), preferenceloader (>= 2.0), com.a3tweaks.flipswitch
+Conflicts: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.qdf, com.clezz.qdb
+Replaces: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.qdf, com.clezz.qdb
+Icon: file:///Library/PreferenceBundles/QuickDoSettings.bundle/Icon-small.png
+Version: 3.9.4
+Installed-Size: 6520
+Size: 1736408
+MD5sum: fef1bbeab2a99bf6acdb76d1d4119c1a
+Filename: debs/com.clezz.quickdo_v3.9.4_iphoneos-arm_julioverne.deb
+
+Package: com.clezz.tage
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Name: Tage
+Version: 1.2.2-1
+Architecture: iphoneos-arm
+Description: Awesome multitasking gestures and more. / 功能强大的多任务手势。
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tageDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tageDp
+Installed-Size: 2092
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ma Jun <majun3@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: clezz
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:////Library/PreferenceBundles/TageSettings.bundle/Icon-small@2x.png
+Size: 620424
+MD5sum: 368a7edbb257a6995eed23f7e849b1f1
+Filename: debs/com.clezz.tage_v1.2.2-1_iphoneos-arm_julioverne.deb
+
+Package: com.clezz.touchr
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0)
+Name: Touchr
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: TouchID gestures / TouchID 手势
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=touchrDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=touchrDp
+Installed-Size: 740
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ma Jun <majun3@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: clezz
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Library/PreferenceBundles/TouchrSettings.bundle/Icon-small@2x.png
+Size: 205530
+MD5sum: 63b56ea8f56bec7b571c293b1c81d522
+Filename: debs/com.clezz.touchr_v1.0.2_iphoneos-arm_julioverne.deb
+
+Name: Phantom for Snapchat
+Package: com.cokepokes.phantom
+Priority: optional
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2), com.cokepokes.libphantom (>= 1.0-3)
+Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all
+Version: 4.5.12-7
+Architecture: iphoneos-arm
+Description: Break nearly all of Snapchat's limits
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: CokePokes <cokepokes@gmail.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Installed-Size: 6411
+dev: cokepokes
+Icon: file:///Library/PreferenceBundles/phantom.bundle/phantomIcon@2x.png
+Size: 9124782
+MD5sum: dc4a0129f481b14f657bdb14b2770250
+Filename: debs/com.cokepokes.phantom_v4.5.12-7_iphoneos-arm_julioverne.deb
+
+Name: Anisette
+Package: com.cpdigitaldarkroom.anis
+Priority: optional
+Depends: mobilesubstrate, applist, com.a3tweaks.flipswitch, preferenceloader, libactivator, firmware (>= 8.0)
+Version: 1.0.10
+Architecture: iphoneos-arm
+Description: centralized hotbar for apps & shortcuts
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anisetteDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anisetteDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Section: Tweaks
+Tag: purpose::extension, cydia::commercial, compatible::ios8, compatible::ios9
+Installed-Size: 927
+dev: cpdigitaldarkroom
+Icon: file:///Library/PreferenceBundles/Anis.bundle/images/Anis@2x.png
+Size: 269068
+MD5sum: 98f91ba3add9b9c5bb92b543932a247f
+Filename: debs/com.cpdigitaldarkroom.anis_v1.0.10_iphoneos-arm_julioverne.deb
+
+Name: Edge
+Package: com.cpdigitaldarkroom.edge
+Priority: optional
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Version: 1.0.6
+Architecture: iphoneos-arm
+Description: An Edge Experience For iOS
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=edgeDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=edgeDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Section: Tweaks
+Tag: purpose::extension, cydia::commercial, compatible::ios9
+Installed-Size: 692
+dev: cpdigitaldarkroom
+Icon: file:///Library/PreferenceBundles/Edge.bundle/images/Edge@2x.png
+Size: 239870
+MD5sum: dda757921d62bc986dae74b1b8e4d12e
+Filename: debs/com.cpdigitaldarkroom.edge_v1.0.6_iphoneos-arm_julioverne.deb
+
+Name: HideMeX (iOS 10)
+Package: com.cpdigitaldarkroom.hidemex10
+Conflicts: com.cpdigitaldarkroom.hidemex, com.cpdigitaldarkroom.hideme7-lite, com.cpdigitaldarkroom.hideme7, com.cpdigitaldarkroom.hideme8-lite, com.cpdigitaldarkroom.hideme8, com.joshuaseltzer.advancedsettings8, com.sull.hiddensettings8, me.devbug.hiddensettings7
+Replaces: com.cpdigitaldarkroom.cream2, com.cpdigitaldarkroom.creamless, com.cpdigitaldarkroom.cuttlefish, com.cpdigitaldarkroom.cistemaperio, com.antique.camhdr+, com.antique.ccdotsaway, com.cpdigitaldarkroom.taptapflip, com.expetelek.simplepasscodebuttons, com.candoizo.onion
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 10.0), firmware (<= 11.0), org.thebigboss.libcolorpicker, preferenceloader, applist
+Version: 1.1
+Architecture: iphoneos-arm
+Description: The Ultimate iOS Customizing Experience
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hidemex10Dp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hidemex10Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Section: Tweaks
+Tag: purpose::extension, cydia::commercial, compatible::ios10
+Installed-Size: 2211
+dev: cpdigitaldarkroom
+Size: 797746
+MD5sum: d5e8407195e9778fce03afe7e0e0780c
+Filename: debs/com.cpdigitaldarkroom.hidemex10_v1.1_iphoneos-arm_julioverne.deb
+
+Name: HideMeX (iOS 9)
+Package: com.cpdigitaldarkroom.hidemex
+Conflicts: com.cpdigitaldarkroom.hideme7-lite, com.cpdigitaldarkroom.hideme7, com.cpdigitaldarkroom.hideme8-lite, com.cpdigitaldarkroom.hideme8, com.joshuaseltzer.advancedsettings8, com.sull.hiddensettings8, me.devbug.hiddensettings7
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 9.0), org.thebigboss.libcolorpicker, preferenceloader, applist
+Version: 1.4.8
+Architecture: iphoneos-arm
+Description: The Ultimate iOS Customizing Experience
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hidemexDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hidemexDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Section: Tweaks
+Tag: purpose::extension, cydia::commercial, compatible::ios9
+Installed-Size: 1997
+dev: cpdigitaldarkroom
+Icon: file:///Library/PreferenceBundles/HideMeX.bundle/images/HideMeX@2x.png
+Size: 514020
+MD5sum: 421c295a7898cc0a50460b77da3d7696
+Filename: debs/com.cpdigitaldarkroom.hidemex_v1.4.8_iphoneos-arm_julioverne.deb
+
+Name: Kairos
+Package: com.cpdigitaldarkroom.kairos
+Priority: optional
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0)
+Replaces: com.creatix.switchservice
+Conflicts: com.creatix.switchservice
+Version: 1.0.5
+Architecture: iphoneos-arm
+Description: Simple Message Scheduling for iOS
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=kairosDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=kairosDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Section: Tweaks
+Tag: purpose::extension, cydia::commercial, compatible::ios8, compatible::ios9
+Installed-Size: 716
+dev: cpdigitaldarkroom
+Icon: file:///Library/PreferenceBundles/Kairos.bundle/images/Kairos@2x.png
+Size: 240536
+MD5sum: 56c3205b57b98a2d7c43c681440d91d7
+Filename: debs/com.cpdigitaldarkroom.kairos_v1.0.5_iphoneos-arm_julioverne.deb
+
+Package: com.ericday.blued-obex
+Pre-Depends: firmware (>= 3.0)
+Depends: mobilesubstrate (>= 0.9.5000), libactivator | com.clezz.quickdo | firmware (>= 7.0), shell-cmds, coreutils-bin, preferenceloader, com.if0rce.blued-ng | com.ericday.blued-ng, libstatusbar | firmware (<< 4.0)
+Name: AirBlue Sharing
+Version: 2.3.2
+Installed-Size: 7213
+Architecture: iphoneos-arm
+Description: Bluetooth File Transfer And More
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bluedobexDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bluedobexDp
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Eric Day <ibluever@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Networking
+dev: ericday
+Icon: file:///Applications/AirBlueSharing.app/AppIcon57x57.png
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8
+Size: 4122222
+MD5sum: df1af512e2aee9aad023b4527c72a910
+Filename: debs/com.ericday.blued-obex_v2.3.2_iphoneos-arm_julioverne.deb
+
+Package: com.eswick.pegasus
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Name: Pegasus
+Version: 0.9.0-17
+Architecture: iphoneos-arm
+Description: Enables Picture-in-Picture on unsupported devices
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pegasusDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pegasusDp
+Installed-Size: 2211
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Evan Swick <eswick@eswick.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: pegasus
+Tag: cydia::commercial, purpose::extension, compatible::ios9
+Size: 1038936
+MD5sum: 08595fd7dd70bd955377ce5a048d3cb2
+Filename: debs/com.eswick.pegasus_v0.9.0-17_iphoneos-arm_julioverne.deb
+
+Package: com.exile90.icleanerpro
+Name: iCleaner Pro
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Version: 7.6.1~beta1
+Architecture: iphoneos-arm
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Section: Utilities
+Pre-Depends: apt, findutils, shell-cmds
+Depends: firmware (>= 4.0)
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Size: 4988592
+MD5sum: 7bcfa4115813958ea2f1319b15581d83
+Filename: debs/com.exile90.icleanerpro_v7.6.1beta1_iphoneos-arm_julioverne.deb
+
+Package: com.f0u4d.stalky
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 1.1.6), com.rpetrich.rocketbootstrap
+Conflicts: com.f0u4d.stalkybeta
+Name: Stalky
+Version: 2.0.15
+Architecture: iphoneos-arm
+Description: See WhatsApp Contacts' recent updates
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=stalkyDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=stalkyDp
+Installed-Size: 9608
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: f0u4d
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:///Library/Application%20Support/Stalky/FRAssets.bundle/Preferences@3x.png
+Size: 3028460
+MD5sum: a2131637733f0e5ad6d40adbe5930f04
+Filename: debs/com.f0u4d.stalky_v2.0.15_iphoneos-arm_julioverne.deb
+
+Package: com.f0u4d.watusi
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist, com.a3tweaks.flipswitch, com.rpetrich.rocketbootstrap, com.f0u4d.watusitools (>= 1.2.12)
+Conflicts: com.f0u4d.watusibeta, kr.typostudio.tsprotector.8, kr.typostudio.tsprotector8, org.thebigboss.watusi
+Replaces: org.thebigboss.watusi
+Name: Watusi
+Version: 3.6.24
+Architecture: iphoneos-arm
+Description: All in one tweak for WhatsApp Messenger!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=watusi9Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=watusi9Dp
+Installed-Size: 5722
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: f0u4d
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:///Library/PreferenceBundles/WatusiPrefs.bundle/icon@2x.png
+Size: 1857474
+MD5sum: 8f1fe8f943078ffeddae2280d41890ce
+Filename: debs/com.f0u4d.watusi_v3.6.24_iphoneos-arm_julioverne.deb
+
+Package: com.fouadraheb.watusi
+Name: Watusi 2 for WhatsApp
+Version: 0.12.9
+Description: The Ultimate Tweak for WhatsApp Messenger
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 1.3.8), applist, com.rpetrich.rocketbootstrap, jp.ashikase.libpackageinfo
+Conflicts: com.f0u4d.watusibeta, com.f0u4d.watusi, org.thebigboss.watusi, com.ithegentle.watusicrack, com.yourepo.abo1bs.watusitools, net.cydia00.watusicrack2, net.cydia00.watusicrack, com.yourepo.goldcydia.watucrk
+Architecture: iphoneos-arm
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Depiction: http://f0u4d.com/cydia/depictions/?p=com.fouadraheb.watusi
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Size: 2784192
+MD5sum: ad3f05f09a55f6b7be1c830005c23537
+Filename: debs/com.fouadraheb.watusi_v0.12.9_iphoneos-arm_julioverne.deb
+
+Author: John Coates <acapulco1988@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Flex 2
+Package: com.fuyuchi.flex2
+Depends: firmware(>= 5.1), mobilesubstrate (>= 0.9.5000), firmware (<< 7.0) | com.rpetrich.rocketbootstrap (>= 1.0)
+Conflicts: Flexpackage, Flexpackagebeta, FlexiOS7packagebeta, com.fuyuchi.flex, com.fuyuchi.flex2, Flex2package
+Replaces: Flexpackage, Flexpackagebeta, FlexiOS7packagebeta, com.fuyuchi.flex, com.fuyuchi.flex2, Flex2package
+Section: Tweaks
+Installed-Size: 7411
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Easily make your own tweaks, and share them on the Flex Community Cloud.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flex2Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flex2Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: acapulco1988
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:///Applications/Flex.app/Icon.png
+Size: 2445946
+MD5sum: 2af1e9f846d1e4ba817a3069c403397b
+Filename: debs/com.fuyuchi.flex2_v2.0_iphoneos-arm_julioverne.deb
+
+Package: com.groovycarrot.nextgenui5
+Name: NextGenUI5 (iOS 8)
+Version: 5.4.0
+Architecture: iphoneos-arm
+Author: Jake Wise (@GroovyCarrot) <wise.jake@live.co.uk>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.modmyi.nextgenui
+Depiction: http://modmyi.com/info/nextgenui5.d.php
+Description: Next Generation User Interface SpringBoard tweak activated via Settings app.
+Homepage: http://modmyi.com/info/nextgenui5.php
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Section: Tweaks
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+Icon: file://Library/PreferencesBundles/NextGenUI5-Prefs.bundle/NextGenUI@2x.png
+tag: cydia::commercial
+Size: 3683424
+MD5sum: be2ea79557f581fb37515b6ddc94bd3c
+Filename: debs/com.groovycarrot.nextgenui5_v5.4.0_iphoneos-arm_julioverne-fixed.deb
+
+Name: OneHandWizard
+Package: com.gx5.onehandwizard
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader (>= 2.2.2), libactivator | cy+model.iphone(>> 6)
+Version: 1.0.5
+Architecture: iphoneos-arm
+Description: enjoy your phone using one hand
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=onehandwizardDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=onehandwizardDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: @TheAfricanNerd and sharedRoutine <support@gx-5.com>
+Section: Tweaks
+Tag: purpose::extension, cydia::commercial, compatible::ios8, compatible::ios9
+Installed-Size: 1514
+dev: onehandwizard
+Icon: file:///Applications/OneHandWizardApp.app/AppIcon60x60.png
+Size: 931448
+MD5sum: 7f1622b6f09151c1cea3841a4bbaeb8c
+Filename: debs/com.gx5.onehandwizard_v1.0.5_iphoneos-arm_julioverne.deb
+
+Package: com.hackyouriphone.linkstoreios8
+Name: LinkStore for iOS 8
+Version: 1.2
+Depends: firmware (>= 8.0), mobilesubstrate
+Architecture: iphoneos-arm
+Author: PowerSDev <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=linkstoreios8
+Section: HYI - Tweaks
+Description: A new way to download apps for free directly from AppStore! An HackYouriPhone Exclusive, ENJOY IT :)
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=linkstoreios8
+Maintainer: iDevid <repo@hackyouriphone.org>
+Size: 1303986
+MD5sum: fea4bc46da9fadfaa9dd806d2eb5ff07
+Filename: debs/com.hackyouriphone.linkstoreios8_v1.2_iphoneos-arm_julioverne-fixed.deb
+
+Package: com.hackyouriphone.linktunesios8
+Name: LinkTunes for iOS 8
+Version: 1.4.5
+Depends: firmware (>= 8.0), mobilesubstrate, com.hackyouriphone.linktunesplugins, preferenceloader
+Architecture: iphoneos-arm
+Author: PowerSDev <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=linktunesios8
+Section: HYI - Tweaks
+Description: A new way to download Mp3 for free directly from iTunesStore! An HackYouriPhone Exclusive, ENJOY IT :)
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=linktunesios8
+Maintainer: iDevid <repo@hackyouriphone.org>
+Size: 1660610
+MD5sum: e31068837ee562382eb2b3ab83f70a4b
+Filename: debs/com.hackyouriphone.linktunesios8_v1.4.5_iphoneos-arm_julioverne-fixed.deb
+
+Package: com.hackyouriphone.linktunesplugins
+Name: LinkTunes plugins
+Version: 1.1-0
+Depends: firmware (>= 7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Author: HackYouriPhone <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=linktunesplugins
+Section: HYI - Tweaks
+Description: A collection of plugins for LinkTunes
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=linktunesplugins
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Size: 2948
+MD5sum: ea3102e0a953b7fe9c377492330c8dbc
+Filename: debs/com.hackyouriphone.linktunesplugins_1.1-0_iphoneos-arm_mod-julioverne.deb
+
+Author: Robert Hesse <pebbledeveloper@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Smartwatch+
+Package: com.hesze.smartwatchplus
+Depends: firmware (>= 6.0), dpkg (>= 1.13.25-5), com.hesze.pebblesiri (>= 0.7.6), uikittools, libactivator (>= 1.7.5~beta7)
+Section: Networking
+Installed-Size: 4121
+Version: 1.800
+Architecture: iphoneos-arm
+Description: enhanced experience for Pebble smart watch.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=smartwatchplusDp
+Homepage: http://moreinfo.thebigboss. org/moreinfo/depiction.php?file=smartwatchplusDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: roberthesse
+Tag: cydia::commercial, role::enduser, ios7support::1, ios8support::1
+Icon: file:///Applications/Smartwatch+.app/icon.png
+Size: 1663714
+MD5sum: 42412e5c93bf83f07bad2513e1138a32
+Filename: debs/com.hesze.smartwatchplus_v1.800_iphoneos-arm_julioverne.deb
+
+Package: com.iarrays.calllogpro8
+Name: CallLogPro 8 & 9
+Version: 8.2-beta-1
+Architecture: iphoneos-arm
+Description: Now with iOS 9.X and iPhone 6s and 6s Plus support. CallLogPro allows to manage your calls history and to delete call records one by one or all. This works on all firmwares starting from iOS 8.0
+Homepage: http://iarrays.com/
+Maintainer: IArrays <support@iarrays.com>
+Pre-Depends: firmware (>=8.0)
+Depends: mobilesubstrate
+Author: IArrays <contact@iarrays.com>
+Sponsor: IArrays
+Section: Utilities
+Installed-Size: 6530
+Icon: file:////Applications/CallLogPro.app/Icon.png
+Size: 3368300
+MD5sum: 7443eb2090b771a0b7a90080f3aca7e2
+Filename: debs/com.iarrays.calllogpro8_v8.2-beta-1_iphoneos-arm_julioverne.deb
+
+Author: IArrays <support@iarrays.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: libiarrays
+Package: com.iarrays.libiarrays
+Depends: firmware(>= 8.0)
+Section: Development
+Installed-Size: 394
+Version: 1.0.5
+Architecture: iphoneos-arm
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libarraysDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libarraysDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: iarrays
+Tag: purpose::library, cydia::obsolete, compatible::ios8, compatible::ios9
+Size: 134460
+MD5sum: 5445589227913cae165c3963742866cb
+Filename: debs/com.iarrays.libiarrays_v1.0.5_iphoneos-arm_julioverne-fixed.deb
+
+Author: Cannathea <csupport@cannathea.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Pasithea 2 (iOS 10)
+Package: com.ichitaso.pasithea2
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5001), preferenceloader (>= 2.2.2), applist (>= 1.5.9), com.a3tweaks.flipswitch, net.angelxwind.karenlocalizer
+Conflicts: com.ichitaso.pasteboardswitch, com.ichitaso.pasithea
+Replaces: com.ichitaso.pasithea
+Section: Tweaks
+Version: 2.0.6
+Architecture: iphoneos-arm
+Description: Manage the iOS pasteboard history
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pasithea2Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pasithea2Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: cannathea
+Tag: cydia::commercial, purpose::extension, compatible::ios10
+Icon: file:///Library/PreferenceBundles/PasitheaSettings.bundle/Pasithea@2x.png
+Installed-Size: 1512
+Size: 492056
+MD5sum: 2ef7258c46467830dec53e7bc0193508
+Filename: debs/com.ichitaso.pasithea2_v2.0.6_iphoneos-arm_julioverne.deb
+
+Author: Cannathea <csupport@cannathea.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Pasithea
+Package: com.ichitaso.pasithea
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001), preferenceloader (>= 2.2.2), applist (>= 1.5.9), com.a3tweaks.flipswitch, net.angelxwind.karenlocalizer
+Conflicts: com.ichitaso.pasteboardswitch
+Replaces: com.ichitaso.pasithea
+Section: Tweaks
+Version: 1.2.7
+Architecture: iphoneos-arm
+Description: Saves the history copied to pasteboard
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pasitheaDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pasitheaDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: cannathea
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:///Library/PreferenceBundles/PasitheaSettings.bundle/Pasithea@2x.png
+Installed-Size: 1847
+Size: 516776
+MD5sum: 28376a70dc228e89417b70007b3a435f
+Filename: debs/com.ichitaso.pasithea_v1.2.7_iphoneos-arm_julioverne.deb
+
+Author: iMokhles <mokhleshussien@aol.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: WAEnhancer9 (iOS 9)
+Package: com.imokhles.waenhancer9
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.imokhles.imodevtools
+Conflicts: com.imokhles.wasendany9, com.imokhles.wacontactpicture, com.imokhles.waquotemessage, com.imokhles.warecentsupdates, com.f0u4d.watusi, org.thebigboss.watusi, com.freemanrepo.waplus, com.isammour.wareminder
+Section: Tweaks
+Installed-Size: 21311
+Version: 1.8
+Architecture: iphoneos-arm
+Description: the most wanted features for WhatsApp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=waenhancer9Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=waenhancer9Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: imokhles
+Tag: purpose::extension, compatible::ios9
+Icon: file:///Library/Application%20Support/WAEnhancer9/WAEnhancer9.bundle/WAEnhancerIcon@2x.png
+Size: 8118496
+MD5sum: 7d362a4c854fdbb02080a428dbdf1528
+Filename: debs/com.imokhles.waenhancer9_v1.8_iphoneos-arm_julioverne.deb
+
+Package: com.imokhles.waquickreply.bb
+Name: WAQuickReply
+Depends: mobilesubstrate, com.unlimapps.uaunbox
+Conflicts: com.sharedroutine.nuntius
+Architecture: iphoneos-arm
+Description: the most wanted QuickReply for WhatsApp ever
+Maintainer: iMokhles <mokhleshussien@aol.com>
+Author: iMokhles <mokhleshussien@aol.com>
+Section: Tweaks
+Version: 2.0-4
+Installed-Size: 15348
+Size: 8134976
+MD5sum: f20823f7b9abccd00ac0d70409aa3210
+Filename: debs/com.imokhles.waquickreply.bb_v2.0-4_iphoneos-arm_beta_julioverne.deb
+
+Package: com.ioodo.appro
+Name: Appro
+Version: 2.1.8-2
+Architecture: iphoneos-arm
+Description: Most powerful protect Privacy and App
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=approDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=approDp
+Installed-Size: 2416
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: ioodo <ioododev@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: ioodo
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), libhide, com.rpetrich.rocketbootstrap
+Tag: purpose::extension, role::enduser, ios7support::1, ios8support::1
+Size: 1159228
+MD5sum: 3ae8488721ab8122b10f0ff1c4a24882
+Filename: debs/com.ioodo.appro_v2.1.8-2_iphoneos-arm_julioverne.deb
+
+Package: com.ioodo.idbox
+Name: IDBox
+Version: 0.2.0-2
+Architecture: iphoneos-arm
+Description: Quick switch between multiple AppleID's
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=idboxDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=idboxDp
+Installed-Size: 991
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: ioodo <ioododev@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: ioodo
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
+Tag: purpose::extension, role::enduser, ios7support::1, ios8support::1
+Size: 379846
+MD5sum: 522cdd90d68b0054a8ae3303979f59a9
+Filename: debs/com.ioodo.idbox_v0.2.0-2_iphoneos-arm_julioverne-fixed.deb
+
+Package: com.iphsoft.ipodringtonerock
+Version: 6.45
+Section: Utilities
+Maintainer: AnyRing <support@anyring.net>
+Depends: mobilesubstrate, org.hacx.hacxdaemon, firmware (>= 6.0)
+Architecture: iphoneos-arm
+Installed-Size: 1024
+Name: AnyRing
+Icon: file:///Applications/AnyRing.app/Icon.png
+Description: With AnyRing you can easily select any song on your iPod (or record your own voice) to play as a ringtone. iPod Ringtone even lets you select the starting/ending point in the song to play when the ringtone is played in real-time. Does not require any audio conversion of any type! * New - Can now transfer Ringtones over Bluetooth !
+Sponsor: None
+Author: AnyRing <support@anyring.net>
+Tag: cydia::commercial
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anyringData
+dev: lironbarzialy
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anyringData
+Conflicts: repo.so.anyring
+Replaces: repo.so.anyring
+Size: 15508154
+MD5sum: 89f32328ea5197f3c9927c35d708cca7
+Filename: debs/com.iphsoft.ipodringtonerock_v6.45_iphoneos-arm_julioverne.deb
+
+Package: com.itaysoft.icaughtupro9
+Conflicts: com.itaysoft.icaughtupro, com.itaysoft.icaughtu, com.itaysoft.icaughtupro8
+Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0), firmware (<< 10), applist, gzip, jetslammed
+Name: iCaughtU Pro (iOS 9)
+Version: 9.5.3
+Architecture: iphoneos-arm
+Description: location & photo sent for wrong passcode entered
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icaughtupro9Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icaughtupro9Dp
+Installed-Size: 4254
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Itay <support@itaysoft.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: itay
+Tag: cydia::commercial, purpose::extension, compatible::ios9
+Icon: file:///Library/PreferenceBundles/iCaughtUProPref.bundle/iCaughtU%20Pro@2x.png
+Size: 1340334
+MD5sum: b7461d7764ee052b6f27e30d87aabaaf
+Filename: debs/com.itaysoft.icaughtupro9_v9.5.3_iphoneos-arm_julioverne-fixed.deb
+
+Package: com.kdfly.ibox
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libstatusbar
+Conflicts: com.kdfly.kdlte4g, com.kdfly.kdlte4gpro
+Name: iBox
+Version: 1.2.3-1
+Architecture: iphoneos-arm
+Description: iBox是一款增强iOS使用体验的多功能插件，通过集成各种实用的功能，iBox会为大家提供更好的iOS增强体验。
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iboxDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iboxDp
+Installed-Size: 1064
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Sean Young <sheepkx@qq.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: kdfly
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:///Library/PreferenceBundles/iBoxSettings.bundle/iBox@2x.png
+Size: 332196
+MD5sum: 605faeabbf1696b4462e8eeae4991621
+Filename: debs/com.kdfly.ibox_v1.2.3-1_iphoneos-arm_julioverne.deb
+
+Package: com.laughingquoll.controlcenterxi
+Depends: mobilesubstrate, firmware (>= 10.0), com.laughingquoll.corexi
+Conflicts: com.atwiiks.horseshoe
+Name: ControlCenterXI (iOS 10)
+Version: 1.0.1-2
+Architecture: iphoneos-arm
+Description: iOS 11 Style Control Center
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=controlcenterxiDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=controlcenterxiDp
+Installed-Size: 241
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: LaughingQuoll <laughingquoll@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: laughingquoll
+Tag: cydia::commercial, purpose::extension, compatible::ios10
+Icon: file:///Library/PreferenceBundles/CoreXI.bundle/icon@2x.png
+Size: 1325826
+MD5sum: a6461a1d0e84150ad093ef9a115e09ef
+Filename: debs/com.laughingquoll.controlcenterxi_v1.0.1-2_iphoneos-arm_julioverne.deb
+
+Package: com.laughingquoll.lockscreenxi
+Depends: mobilesubstrate, firmware (>= 10.0), com.laughingquoll.corexi
+Name: LockscreenXI (iOS 10)
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Description: iOS 11 Style lockscreen media player and passcode view
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockscreenxiDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockscreenxiDp
+Installed-Size: 241
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: LaughingQuoll <laughingquoll@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: laughingquoll
+Tag: cydia::commercial, purpose::extension, compatible::ios10
+Icon: file:///Library/PreferenceBundles/CoreXI.bundle/icon@2x.png
+Size: 1274116
+MD5sum: d70cd726d3b91bc61f4a30f2b8dcedc6
+Filename: debs/com.laughingquoll.lockscreenxi_v1.0.1-1_iphoneos-arm_julioverne.deb
+
+Package: com.laughingquoll.noctis
+Conflicts: com.laughingquoll.noctis9
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker
+Name: Noctis (iOS 10)
+Version: 1.9.3.4
+Architecture: iphoneos-arm
+Description: Dark Mode for iOS 10
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noctis10Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noctis10Dp
+Installed-Size: 1295
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: LaughingQuoll <laughingquoll@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: laughingquoll
+Tag: cydia::commercial, purpose::extension, compatible::ios10
+Icon: file:///Library/PreferenceBundles/NoctisPrefs.bundle/icon@2x.png
+Size: 351344
+MD5sum: 5c33e0d40f17081e5e2c8664f6fb4c00
+Filename: debs/com.laughingquoll.noctis_v1.9.3.4_iphoneos-arm_julioverne.deb
+
+Package: com.lockinfo.lockinfo8
+Name: LockInfo 8
+Architecture: iphoneos-arm
+Icon: file:///Library/Frameworks/LockInfo8.framework/Cydia.png
+Description: Unlock your information.
+Homepage: http://www.lockinfo.net/cydia/modmyi/lockinfo8.php
+Depiction: http://www.lockinfo.net/cydia/modmyi/lockinfo8.d.php
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Author: LockInfo, LLC <support@lockinfo.net>
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+Section: Tweaks
+Depends: mobilesubstrate, openssl, preferenceloader, firmware (>= 8.0), com.dba-tech.lockpages (>= 1.5.1), libstatusbar
+Conflicts: com.dba-tech.forecast, com.dba-tech.ncagenda, com.bushe.lockhtml3
+Replaces: com.dba-tech.forecast, com.dba-tech.ncagenda
+Version: 8.0.0-1103
+Installed-Size: 2480
+Size: 682296
+MD5sum: 3ea58fe52610a15bb398e9362ab81b71
+Filename: debs/com.lockinfo.lockinfo8_v8.0.0-1103_iphoneos-arm_julioverne.deb
+
+Package: com.matchstic.Convergance
+Name: Convergance
+Version: 2.0.1-1
+Description: Reimagine your lockscreen
+Section: System
+Depends: firmware (>= 6.0), mobilesubstrate, com.a3tweaks.flipswitch, preferenceloader, applist
+Priority: optional
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Homepage: http://incendo.ws/projects/Convergance
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.Convergance.html
+Maintainer: Matt Clarke <matt@incendo.ws>
+Icon: file:///Library/Application Support/Convergance/Themes/Default/Icon@2x.png
+Size: 4181294
+MD5sum: 58192500bac65b6d697345053c471489
+Filename: debs/com.matchstic.convergance_v2.0.1-1_iphoneos-arm_beta_julioverne.deb
+
+Package: com.matchstic.convergance
+Name: Convergance
+Version: 2.0.1
+Architecture: iphoneos-arm
+Author: Matchstic <mclarke0805@gmail.com>
+Depends: firmware (>= 6.0), mobilesubstrate, com.a3tweaks.flipswitch, preferenceloader, applist
+Icon: file:///Library/Application Support/Convergance/Themes/Default/Icon@2x.png
+Depiction: http://modmyi.com/info/convergance.d.php
+Priority: extra
+Section: Tweaks
+Description: Convergance, a complete lockscreen replacement for iPhone and iPod Touch.
+Homepage: http://modmyi.com/info/convergance.php
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+tag: cydia::commercial
+Size: 4180772
+MD5sum: e0fbc811c4ad1bcbe71c478d66f7c0cb
+Filename: debs/com.matchstic.convergance_v2.0.1_iphoneos-arm_julioverne-fixed.deb
+
+Package: com.matchstic.xen
+Name: Xen
+Version: 0.3.4
+Description: Supercharge your lockscreen
+Section: System
+Depends: firmware (>= 8.2), mobilesubstrate, preferenceloader, applist, com.matchstic.infostats2 (>= 0.4.3-2)
+Conflicts: com.brycepauken.aeurials, com.cpdigitaldarkroom.cream (<= 1.2.4), com.cpdigitaldarkroom.cleo (<= 1.0.4)
+Provides: com.matchstic.convergance
+Priority: optional
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Homepage: http://incendo.ws/projects/Xen
+Depiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xen.html
+Maintainer: Matt Clarke <matt@incendo.ws>
+Icon: file:///Library/Application Support/Xen/CydiaIcon.png
+Size: 2516500
+MD5sum: c4abe15106e5d4a468717c341b6fb535
+Filename: debs/com.matchstic.xen_v0.3.4_iphoneos-arm_julioverne-fixed.deb
+
+Package: com.matchstic.xenhtml
+Name: Xen HTML
+Version: 0.3.4
+Description: Unified HTML rendering; lockscreen and homescreen
+Section: System
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.unlimapps.uaunbox
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
+Priority: optional
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Depiction: http://incendo.ws/xenpublic/depictions/com.matchstic.xenhtml.html
+Icon: file:///Library/PreferenceBundles/XenHTMLPrefs.bundle/Icon@2x.png
+Size: 1122222
+MD5sum: fb3ef2bff804f14693f70df5dbe9a692
+Filename: debs/com.matchstic.xenhtml_v0.3.4_iphoneos-arm_julioverne.deb
+
+Package: com.modmyi.nextgenui
+Name: NextGenUI
+Version: 4.3.18
+Architecture: iphoneos-arm
+Author: GroovyCarrot <wise.jake@live.co.uk>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.modmyi.nextgenui2 (<= 3.7)
+Replaces: com.modmyi.nextgenui2 (<= 3.7)
+Depiction: http://modmyi.com/info/nextgenui.d.php
+Icon: http://betarepo.groovycarrot.co.uk/info/com.modmyi.nextgenui.png
+Priority: extra
+Section: Tweaks
+Description: Creates a unique interface inspired by next generation games!
+Homepage: http://modmyi.com/info/nextgenui.php
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+tag: cydia::commercial
+Size: 5497682
+MD5sum: 393a3d74b62138cf0b11992a08ef5b0a
+Filename: debs/com.modmyi.nextgenui_v4.3.18_iphoneos-arm_julioverne.deb
+
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ischedulerData
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ischedulerData
+Author: niufenfen <niu-fenfen@hotmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: iScheduler
+Package: com.niufenfen.ischeduler
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.innoying.sbutils
+Replaces: com.mcleaner.atimetool
+Section: Utilities
+Installed-Size: 2711
+Version: 1.5.7
+Architecture: iphoneos-arm
+Description: automation tool, scheduler for your iPhone
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: niufenfen
+Icon: file:///Applications/aTimeTool.app/icon.png
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Size: 1143988
+MD5sum: 47befe7986d91c9f79ccc61154ee1687
+Filename: debs/com.niufenfen.ischeduler_v1.5.7_iphoneos-arm_julioverne.deb
+
+Author: lordscotland <admin@officialscheduler.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Attachments+ for Mail
+Package: com.officialscheduler.attachmentsplus
+Depends: firmware (>= 5.0), mobilesubstrate, libfinder(>= 1.1-3)
+Section: Tweaks
+Installed-Size: 292
+Version: 2.0-4
+Architecture: iphoneos-arm
+Description: Save, view, open, and send attachments, all from within Mail.app
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=attachmentsplusDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=attachmentsplusDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: officialscheduler
+Tag: cydia::commercial, purpose::extension, ios7support::1, ios8support::1
+Size: 119540
+MD5sum: 2fdbcf8ada5f90ae1fc8d50ad8b125c1
+Filename: debs/com.officialscheduler.attachmentsplus_v2.0-4_iphoneos-arm_julioverne.deb
+
+Author: lordscotland <admin@officialscheduler.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Photo Organizer 7
+Package: com.officialscheduler.photoorganizer7
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.officialscheduler.photoorganizer, com.officialscheduler.photoorganizerpro
+Section: Tweaks
+Installed-Size: 154
+Version: 2.3-5
+Architecture: iphoneos-arm
+Description: Take control of your photo library
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=photoorganizer7Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=photoorganizer7Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: officialscheduler
+Tag: cydia::commercial, purpose::extension
+Size: 51318
+MD5sum: 6ab42e14cd8fb51f1b67284fe479f4f5
+Filename: debs/com.officialscheduler.photoorganizer7_v2.3-5_iphoneos-arm_julioverne.deb
+
+Author: lordscotland <admin@officialscheduler.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Photo Organizer 8
+Package: com.officialscheduler.photoorganizer8
+Depends: firmware (>= 8.1), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.officialscheduler.photoorganizer, com.officialscheduler.photoorganizerpro, com.officialscheduler.photoorganizer7
+Section: Tweaks
+Installed-Size: 253
+Version: 1.6-1
+Architecture: iphoneos-arm
+Description: Take control of your photo library
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=photoorganizer8Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=photoorganizer8Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: officialscheduler
+Tag: cydia::commercial, purpose::extension, ios8support::1
+Size: 92864
+MD5sum: 32027e73fa3b5dc14afcdc9588708dbf
+Filename: debs/com.officialscheduler.photoorganizer8_v1.6-1_iphoneos-arm_julioverne.deb
+
+Author: Jalal Ouraigua <ouraigua@me.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Audicy
+Package: com.ouraigua.audicy
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.ouraigua.jodebox (>= 3.0.2)
+Conflicts: net.howett.safaridownloader, com.ouraigua.safaridownloader
+Replaces: com.ouraigua.jodownloader
+Section: Tweaks
+Installed-Size: 41110
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: Import audio/video to Music app, Videos app, Ringtones, Podcasts, Camera Roll...
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=audicyDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=audicyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ouraigua
+Tag: cydia::commercial, purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:///Applications/Audicy.app/CydiaIcon.png
+Size: 31725034
+MD5sum: 79f0c7fcad8857e3a1b138e9c93c725a
+Filename: debs/com.ouraigua.audicy_v1.0.3_iphoneos-arm_julioverne.deb
+
+Author: Jalal Ouraigua <ouraigua@me.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Chrome Downloader+
+Package: com.ouraigua.chromedownloaderplus
+Depends: mobilesubstrate, preferenceloader, com.ouraigua.jodebox (>> 1.8)
+Conflicts: com.ouraigua.chromedownloader, com.skram.cdm, com.ouraigua.chromedownloaderplus64
+Replaces: com.ouraigua.chromedownloader, com.ouraigua.chromedownloaderplus64
+Section: Tweaks
+Installed-Size: 20127
+Version: 4.0-2
+Architecture: iphoneos-arm
+Description: Powerful Videos & Files Download Manager for Chrome on iOS.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chromedownloaderplusDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chromedownloaderplusDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ouraigua
+Tag: cydia::commercial, purpose::extension, ios7support::1, ios8support::1
+Icon: file:///Library/PreferenceBundles/ChromeDownloaderPrefs.bundle/icon@2x.png
+Size: 16076564
+MD5sum: d7a629f90209449094e3bf0c8956dbb5
+Filename: debs/com.ouraigua.chromedownloaderplus_v4.0-2_iphoneos-arm_julioverne.deb
+
+Author: Jalal Ouraigua <ouraigua@me.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Safari Downloader+
+Package: com.ouraigua.safaridownloaderplus
+Depends: mobilesubstrate, preferenceloader, applist, com.ouraigua.jodebox (>= 3.0.0)
+Conflicts: net.howett.safaridownloader, com.ouraigua.safaridownloader
+Replaces: com.ouraigua.safaridownloader
+Section: Tweaks
+Installed-Size: 17060
+Version: 4.2.3
+Architecture: iphoneos-arm
+Description: Videos & Files Download Manager for iOS.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safaridownloaderplusDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safaridownloaderplusDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ouraigua
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:///Library/PreferenceBundles/SafariDownloaderPrefs.bundle/icon@2x.png
+Size: 13402672
+MD5sum: 87990af0b0189bfafc79625430564dbf
+Filename: debs/com.ouraigua.safaridownloaderplus_v4.2.3_iphoneos-arm_julioverne.deb
+
+Author: Phillip Tennen <phillip.ennen@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Velox 2 (iOS 8)
+Package: com.phillipt.velox
+Depends: firmware (>= 7.0), mobilesubstrate, system-cmds, applist, preferenceloader
+Conflicts: com.apextweaks.velox
+Section: Tweaks
+Installed-Size: 11112
+Version: 1.0.4-2
+Architecture: iphoneos-arm
+Description: An incredible new way to use your apps
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=velox2Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=velox2Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: phillipt
+Tag: cydia::commercial, purpose::extension, compatible::ios8
+Icon: file:///Library/PreferenceBundles/VeloxPrefs.bundle/VeloxPrefs@2x.png
+Size: 7309570
+MD5sum: 902e7c550f6f9fead9f5559561a753ee
+Filename: debs/com.phillipt.velox_v1.0.4-2_iphoneos-arm_julioverne.deb
+
+Package: com.rpetrich.biolockdown
+Name: BioLockdown
+Architecture: iphoneos-arm
+Description: Fingerprint lock apps, settings & switches
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ryan Petrich <rpetrich+biolockdown@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5001), firmware (>= 6.0), preferenceloader (>= 2.2.2), applist (>= 1.5.13), com.a3tweaks.flipswitch (>= 1.0.15), com.rpetrich.rocketbootstrap (>= 1.0.5)
+Conflicts: com.w00tylab.virtualhome (<< 1.1.1), net.limneos.bioprotect
+Replaces: com.w00tylab.virtualhome (<< 1.1.1), net.limneos.bioprotect
+Section: Tweaks
+Website: http://rpetri.ch/cydia/biolockdown/
+Depiction: http://rpetri.ch/cydia/biolockdown/
+dev: rpetrich
+Tag: cydia::commercial
+Version: 1.3.3
+Installed-Size: 1036
+Size: 356258
+MD5sum: cfecb52169c849bcb5a2fbbcbcc41638
+Filename: debs/com.rpetrich.biolockdown_v1.3.3_iphoneos-arm_julioverne.deb
+
+Package: com.rpetrich.fullforce
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Depends: firmware (>= 6), mobilesubstrate, preferenceloader (>= 2.2), applist (>= 1.5.9), cy+model.iphone | cy+model.ipod
+Description: Force applications to show in fullscreen mode
+Name: FullForce for Phone
+Homepage: http://rpetri.ch/cydia/fullforceforphone/
+Depiction: http://rpetri.ch/cydia/fullforceforphone/
+Author: Ryan Petrich <rpetrich@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Conflicts: com.kindadev.goodfit
+Replaces: com.kindadev.goodfit
+dev: rpetrich
+Tag: purpose::extension, cydia::commercial
+Version: 1.1.4
+Installed-Size: 312
+Size: 108348
+MD5sum: 439ef6f35f71dfdaeaef144f46a18c1c
+Filename: debs/com.rpetrich.fullforce_v1.1.4_iphoneos-arm_julioverne.deb
+
+Package: com.rpetrich.grabby
+Name: Grabby
+Architecture: iphoneos-arm
+Description: Customizable camera grabber
+Maintainer: Ryan Petrich <rpetrich+grabby@gmail.com>
+Author: Ryan Petrich <rpetrich+grabby@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5001), firmware (>= 5.1), preferenceloader (>= 2.2.2), libactivator (>= 1.9.6), com.a3tweaks.flipswitch
+Conflicts: me.adambell.stride, de.neorame.noisy (<= 1.2), com.nickf.anylockapp, com.nickf.cameralocker, com.myrepospace.maxkatzmann.jellylock, com.a3tweaks.axis
+Replaces: me.adambell.stride, de.neorame.noisy (<= 1.2), com.nickf.anylockapp, com.nickf.cameralocker, com.myrepospace.maxkatzmann.jellylock, com.a3tweaks.axis
+Section: Tweaks
+Website: http://rpetri.ch/cydia/grabby/
+Depiction: http://rpetri.ch/cydia/grabby/
+Icon: file:///Applications/Preferences.app/Camera.png
+Tag: cydia::commercial
+dev: rpetrich
+Version: 1.3.11
+Installed-Size: 812
+Size: 279222
+MD5sum: ee17ba2a58cf2bdbd445958552a0c739
+Filename: debs/com.rpetrich.grabby_v1.3.11_iphoneos-arm_julioverne.deb
+
+Package: com.rpetrich.videopane
+Name: VideoPane
+Architecture: iphoneos-arm
+Description: Picture-in-picture for video; multitask while playing movies
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ryan Petrich <rpetrich+videopane@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5001), firmware (>= 5.0), preferenceloader (>= 2.2.2), libactivator (>= 1.9.12), applist (>= 1.5.9), com.rpetrich.rocketbootstrap (>= 1.0.5) | firmware (<< 7.0)
+Conflicts: com.joemerlino.videopanefix
+Replaces: com.joemerlino.videopanefix
+Section: Tweaks
+Website: http://rpetri.ch/cydia/videopane/
+Depiction: http://rpetri.ch/cydia/videopane/
+Icon: file:///System/Library/PreferenceLoader/Preferences/VideoPane/VideoPane@2x.png
+dev: rpetrich
+Tag: cydia::commercial
+Version: 2.0.6
+Installed-Size: 1268
+Size: 357158
+MD5sum: 6009fead27502b3f123d662f9bd3efe2
+Filename: debs/com.rpetrich.videopane_v2.0.6_iphoneos-arm_julioverne.deb
+
+Name: Seeker
+Package: com.rthakrar.seeker
+Priority: optional
+Depends: mobilesubstrate, preferenceloader, adv-cmds, firmware (>= 8.4), firmware (<= 9.4)
+Conflicts: com.rthakrar.playinglabel, com.rthakrar.scrubaround, com.rthakrar.brighterlsmedia, com.creatix.carrot, com.sull.seeker, com.hackyouriphone.seeker, com.xsellize.seeker, com.sinfuliphone.seeker, repo.biteyourapple.net.seeker, com.repo.xarold.com.seeker
+Version: 1.991
+Architecture: iphoneos-arm
+Description: Precision audio scrubbing for iOS
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=seekerDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=seekerDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ron Thakrar <rthakrardev@gmail.com>
+Section: Tweaks
+Tag: purpose::extension, cydia::commercial, compatible::ios8, compatible::ios9
+Installed-Size: 3149
+dev: rthakrardev
+Icon: file:///Library/PreferenceBundles/Seeker.bundle/Seeker@2x.png
+Size: 2046184
+MD5sum: 91aacab4f1e16ef90ef005815d6d557c
+Filename: debs/com.rthakrar.seeker_v1.991_iphoneos-arm_julioverne.deb
+
+Name: AppHeads
+Package: com.sharedroutine.appheads
+Priority: optional
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader (>= 2.2.2), applist
+Version: 1.0.7
+Architecture: iphoneos-arm
+Description: A new App Multitasking Experience
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appheadsDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appheadsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: sharedRoutine <sharedRoutine@icloud.com>
+Section: Tweaks
+Tag: purpose::extension, cydia::commercial, compatible::ios7, compatible::ios8
+Installed-Size: 1912
+dev: sharedroutine
+Icon: file:///Library/PreferenceBundles/AppHeadsSettings.bundle/AppHeads@2x.png
+Size: 1203174
+MD5sum: 8219017c7213c6b40ccce834bbde4f66
+Filename: debs/com.sharedroutine.appheads_v1.0.7_iphoneos-arm_julioverne.deb
+
+Package: com.spark.modularcc
+Name: ModularCC
+Depends: mobilesubstrate, preferenceloader
+Version: 0.7~BETA
+Architecture: iphoneos-arm
+Description: Customisable control center
+Homepage: http://repo.sparkservers.co.uk
+Maintainer: Spark <sam@sparkservers.co.uk>
+Author: Spark <sam@sparkservers.co.uk>
+Section: Tweaks
+Size: 2527660
+MD5sum: 8dd26954a32189907bc78a784a2d30ed
+Filename: debs/com.spark.modularcc_0.7-BETA_iphoneos-arm_julioverne.deb
+
+Package: com.spiritoflogic.aeternum.hives
+Name: Aeternum Hives
+Version: 1.4.0.2
+Architecture: iphoneos-arm
+Icon: file:///Library/PreferenceBundles/Aeternum.bundle/Icon.png
+Description: Apple Watch UI App-Grouping SpringBoard replacement,Dock,Spotlight,fully featured Icon Rearranging DeletingAppsBadgesAnimationsiWatchInterfaceSpring BoardPreferenceLoaderSettingsWinterboardThemeActivatorActionNoCrack
+Homepage: http://www.aeternum.at/
+Depiction: http://www.aeternum.at/cydia/aeternum_hives/
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5015), preferenceloader, com.rpetrich.rocketbootstrap
+Replaces: com.spiritoflogic.aeternum
+Conflicts: com.spiritoflogic.aeternum, org.coolstar.classicfolders, com.adamseiter.spotlightbegone
+Maintainer: SpiritOfLogic <support@aeternum.at>
+Author: SpiritOfLogic <support@aeternum.at>
+Sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+Section: Tweaks
+dev: spiritoflogic
+Tag: purpose::extension, purpose::commercial, cydia::commercial, role::enduser
+Size: 462198
+MD5sum: 6cc91f99aefcab41d140328ee3b2eb1a
+Filename: debs/com.spiritoflogic.aeternum.hives_v1.4.0.2_iphoneos-arm_julioverne.deb
+
+Package: com.spiritoflogic.aeternum
+Name: Aeternum
+Version: 1.1.0.2
+Architecture: iphoneos-arm
+Icon: file:///Library/PreferenceBundles/Aeternum.bundle/Icon.png
+Description: Apple Watch UI SpringBoard replacement with Dock, Spotlight, fully featured Icon RearrangingDeletingAppsBadgesAnimationsiWatchInterfaceSpring BoardPreferenceLoaderSettingsWinterboardThemeActivatorActionNoCrack
+Homepage: http://www.aeternum.at/
+Depiction: http://www.aeternum.at/cydia/aeternum/
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5015), preferenceloader, com.rpetrich.rocketbootstrap
+Replaces: com.spiritoflogic.aeternum.hives
+Conflicts: com.spiritoflogic.aeternum.hives
+Maintainer: SpiritOfLogic <support@aeternum.at>
+Author: SpiritOfLogic <support@aeternum.at>
+Sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+Section: Tweaks
+dev: spiritoflogic
+Tag: purpose::extension, purpose::commercial, cydia::commercial, role::enduser
+Size: 668522
+MD5sum: 84a740989d432854b850d7be4a4f191a
+Filename: debs/com.spiritoflogic.aeternum_v1.1.0.2_iphoneos-arm_julioverne.deb
+
+Package: com.spiritoflogic.itouchsecure.ios8
+Name: iTouchSecure for iOS 8
+Version: 1.0.1.1
+Architecture: iphoneos-arm
+Icon: file:///Library/PreferenceBundles/iTouchSecure.bundle/Icon.png
+Description: Touch ID Password Autofill everywhere FingerPrintSensorScanningTouchIDHomeButtonLoginAuthorizationBiometricPasswordsGlobalSafariAppProtectionSecureSecurityAuthenticationTweakSBSettingsSwitchNoCrack
+Homepage: http://www.itouchsecure.com/
+Depiction: http://www.itouchsecure.com/cydia/itouchsecure.ios8/
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap
+Replaces: com.spiritoflogic.itouchsecure
+Conflicts: com.spiritoflogic.itouchsecure
+Maintainer: SpiritOfLogic <support@itouchsecure.com>
+Author: SpiritOfLogic <support@itouchsecure.com>
+Sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+Section: Security
+dev: spiritoflogic
+Tag: purpose::extension, purpose::commercial, cydia::commercial, role::enduser
+Size: 300980
+MD5sum: acab65764a53d6f7f456480c6fb483a4
+Filename: debs/com.spiritoflogic.itouchsecure.ios8_v1.0.1.1_iphoneos-arm_julioverne.deb
+
+Package: com.spiritoflogic.itouchsecure
+Name: iTouchSecure
+Version: 2.0.1.3
+Architecture: iphoneos-arm
+Icon: file:///Library/PreferenceBundles/iTouchSecure.bundle/Icon.png
+Description: Touch ID Password Autofill everywhere FingerPrintSensorScanningTouchIDHomeButtonLoginAuthorizationBiometricPasswordsGlobalSafariAppProtectionSecureSecurityAuthenticationTweakSBSettingsSwitchNoCrack
+Homepage: http://www.itouchsecure.com/
+Depiction: http://www.itouchsecure.com/cydia/itouchsecure/
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap
+Replaces: 
+Conflicts: 
+Maintainer: SpiritOfLogic <support@itouchsecure.com>
+Author: SpiritOfLogic <support@itouchsecure.com>
+Sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+Section: Security
+dev: spiritoflogic
+Tag: purpose::extension, purpose::commercial, cydia::commercial, role::enduser
+Size: 268748
+MD5sum: 5a0d10fcd54014783d657001c83feb36
+Filename: debs/com.spiritoflogic.itouchsecure_v2.0.1.3_iphoneos-arm_julioverne.deb
+
+Package: com.spiritoflogic.iwebboost
+Name: iWebBoost
+Version: 1.0.0.1
+Architecture: iphoneos-arm
+Icon: file:///Library/PreferenceBundles/iWebBoost.bundle/Icon.png
+Description: Faster JavaScript Webbrowsing for all Webcontent Apps like Facebook,Chrome,Dolphin,Opera,Flash Browser,SkyFireWebbrowserJava-NitroNitrous-EngineWebKitSpeedSafariPerformanceTweakSBSettingsSwitchNoCrack
+Homepage: http://www.iwebboost.com/
+Depiction: http://www.iwebboost.com/cydia/webboost/
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
+Replaces: net.joedj.nitrous
+Conflicts: net.joedj.nitrous
+Maintainer: SpiritOfLogic <support@iwebboost.com>
+Author: SpiritOfLogic <support@iwebboost.com>
+Sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+Section: Java
+dev: spiritoflogic
+Tag: purpose::extension, purpose::commercial, cydia::commercial, role::enduser
+Size: 138472
+MD5sum: 81a6869070967094260a2d4471e096e8
+Filename: debs/com.spiritoflogic.iwebboost_v1.0.0.1_iphoneos-arm_julioverne.deb
+
+Package: com.spiritoflogic.ncunify
+Name: Unify
+Version: 1.1.3.2
+Architecture: iphoneos-arm
+Icon: file:///Library/PreferenceBundles/Unify.bundle/Icon.png
+Description: Notifications Grouped by App at LockScreen/NotificationCenter sorted by app or by time-received, SpringBoard notifications organized into sections, many options via PreferenceLoader settings
+Homepage: http://www.unify-tweak.com/
+Depiction: http://www.unify-tweak.com/cydia/unify/
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5015), preferenceloader, com.rpetrich.rocketbootstrap
+Replaces: 
+Conflicts: 
+Maintainer: SpiritOfLogic <support@unify-tweak.com>
+Author: SpiritOfLogic <support@unify-tweak.com>
+Sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+Section: Productivity
+dev: spiritoflogic
+Tag: purpose::extension, purpose::commercial, cydia::commercial, role::enduser
+Size: 263002
+MD5sum: f0eb6505df1f1933799141ddace6cf1f
+Filename: debs/com.spiritoflogic.ncunify_v1.1.3.2_iphoneos-arm_julioverne.deb
+
+Package: com.spiritoflogic.photoalbumsplus.iphone.ios7
+Name: PhotoAlbums+ for iOS 7 and iPhone/iPod
+Version: 1.0.0.5
+Architecture: iphoneos-arm
+Icon: file:///Applications/PhotoAlbumsPlus.app/Icon.png
+Description: Password-protect photo albums, move photos between albums without iTunesPhotos AppCreateFoldersMoveDeletePasswordPrivatePicturesVideosCopyToPCMACUSB/BluetoothCelesteiFileCameraSBSettingsSwitchNoCrack
+Homepage: http://www.photoalbumsplus.net/
+Depiction: http://www.photoalbumsplus.net/cydia/photoalbumsplus.ios7/
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap
+Replaces: com.spiritoflogic.photoalbumsplus.iphone, com.spiritoflogic.photoalbumsplus.ipad, com.spiritoflogic.photoalbumsplus, com.spiritoflogic.photoalbumsplus.ipad.ios7
+Conflicts: com.spiritoflogic.photoalbumsplus.iphone, com.spiritoflogic.photoalbumsplus.ipad, com.officialscheduler.photoorganizer, com.spiritoflogic.photoalbumsplus.ipad.ios7
+Maintainer: SpiritOfLogic <support@photoalbumsplus.net>
+Author: SpiritOfLogic <support@photoalbumsplus.net>
+Sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+Section: Security
+dev: spiritoflogic
+Tag: purpose::extension, purpose::commercial, cydia::commercial, role::enduser
+Size: 386432
+MD5sum: 39c0fc98749e85a430a423c086ce9338
+Filename: debs/com.spiritoflogic.photoalbumsplus.iphone.ios7_v1.0.0.5_iphoneos-arm_julioverne.deb
+
+Package: com.spiritoflogic.photoalbumsplus.iphone.ios8
+Name: PhotoAlbums+ for iOS 8 and iPhone/iPod
+Version: 1.0.0.8
+Architecture: iphoneos-arm
+Icon: file:///Applications/PhotoAlbumsPlus.app/Icon.png
+Description: Password-protect photo albums, move photos between albums without iTunesPhotos AppCreateFoldersMoveDeletePasswordPrivatePicturesVideosCopyToPCMACUSB/BluetoothCelesteiFileCameraSBSettingsSwitchNoCrack
+Homepage: http://www.photoalbumsplus.net/
+Depiction: http://www.photoalbumsplus.net/cydia/photoalbumsplus.ios8/
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap
+Replaces: com.spiritoflogic.photoalbumsplus.iphone, com.spiritoflogic.photoalbumsplus.ipad, com.spiritoflogic.photoalbumsplus, com.spiritoflogic.photoalbumsplus.ipad.ios7, com.spiritoflogic.photoalbumsplus.iphone.ios7, com.spiritoflogic.photoalbumsplus.ipad.ios8
+Conflicts: com.spiritoflogic.photoalbumsplus.iphone, com.spiritoflogic.photoalbumsplus.ipad, com.officialscheduler.photoorganizer, com.spiritoflogic.photoalbumsplus.ipad.ios7, com.spiritoflogic.photoalbumsplus.iphone.ios7, com.spiritoflogic.photoalbumsplus.ipad.ios8
+Maintainer: SpiritOfLogic <support@photoalbumsplus.net>
+Author: SpiritOfLogic <support@photoalbumsplus.net>
+Sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+Section: Security
+dev: spiritoflogic
+Tag: purpose::extension, purpose::commercial, cydia::commercial, role::enduser
+Size: 346094
+MD5sum: 34066753e08f9c6518a0af8a63491363
+Filename: debs/com.spiritoflogic.photoalbumsplus.iphone.ios8_v1.0.0.8_iphoneos-arm_julioverne.deb
+
+Package: com.spiritoflogic.photoalbumsplus.iphone
+Name: PhotoAlbums+ for iPhone/iPod
+Version: 4.2.0.4
+Architecture: iphoneos-arm
+Icon: file:///Applications/PhotoAlbumsPlus.app/Icon.png
+Description: Manage PhotoAlbums w/o iTunes,on Device from PhotosApp,Create Folders,Move,Delete,PasswordProtect Private Pictures,Videos CopyTo PCMAC ViaUSB/BluetoothCelesteiFilePwnTunesCameraSBSettingsSwitchNoCrack
+Homepage: http://www.photoalbumsplus.net/
+Depiction: http://www.photoalbumsplus.net/cydia/photoalbumsplus/
+Depends: firmware (>= 4.0), mobilesubstrate (>= 0.9.3993), firmware (<< 5.0) | preferenceloader
+Replaces: com.spiritoflogic.photoalbumsplus.ipad, com.spiritoflogic.photoalbumsplus
+Conflicts: com.spiritoflogic.photoalbumsplus.ipad, com.officialscheduler.photoorganizer
+Maintainer: SpiritOfLogic <support@photoalbumsplus.net>
+Author: SpiritOfLogic <support@photoalbumsplus.net>
+Sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+Section: Tweaks
+dev: spiritoflogic
+Tag: purpose::extension, purpose::commercial, cydia::commercial, role::enduser
+Size: 672266
+MD5sum: b288db9d3494b4144ffea82016634df0
+Filename: debs/com.spiritoflogic.photoalbumsplus.iphone_v4.2.0.4_iphoneos-arm_julioverne-fixed.deb
+
+Package: com.spiritoflogic.pwntunes.ios7
+Name: PwnTunes for iOS 7
+Version: 1.0.1.2
+Architecture: iphoneos-arm
+Icon: file:///Applications/PwnTunes.app/Icon.png
+Description: Drag&Drop Music Import without iTunes... - like USBStick,PictureFileLibraryImportExportSyncStoreShareTransferMP3ID3DCIMPhotosVideosSongsSupportsiFileMewSeekCelesteReplacesSwapTunesMP3PlayeriPodNoCrack
+Homepage: http://www.pwntunes.net/
+Depiction: http://www.pwntunes.net/cydia/pwntunes.ios7/
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), shell-cmds, preferenceloader, com.rpetrich.rocketbootstrap
+Replaces: pwntunes, pwntunes.ios7
+Conflicts: pwntunes, pwntunes.ios7
+Maintainer: SpiritOfLogic <support@pwntunes.net>
+Author: SpiritOfLogic <support@pwntunes.net>
+Sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+Section: Data Storage
+dev: spiritoflogic
+Tag: purpose::extension, purpose::commercial, cydia::commercial, role::enduser
+Size: 672470
+MD5sum: 049f0a1f7550d55c29ab8bea757c6a31
+Filename: debs/com.spiritoflogic.pwntunes.ios7_v1.0.1.2_iphoneos-arm_julioverne.deb
+
+Package: com.spiritoflogic.pwntunes.ios8
+Name: PwnTunes for iOS 8
+Version: 1.0.0.1
+Architecture: iphoneos-arm
+Icon: file:///Applications/PwnTunes.app/Icon.png
+Description: Drag&Drop Music Import without iTunes... - like USBStick,PictureFileLibraryImportExportSyncStoreShareTransferMP3ID3DCIMPhotosVideosSongsSupportsiFileMewSeekCelesteReplacesSwapTunesMP3PlayeriPodNoCrack
+Homepage: http://www.pwntunes.net/
+Depiction: http://www.pwntunes.net/cydia/pwntunes.ios8/
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), shell-cmds, preferenceloader, com.rpetrich.rocketbootstrap
+Replaces: pwntunes, pwntunes.ios7, com.spiritoflogic.pwntunes.ios7
+Conflicts: pwntunes, pwntunes.ios7, com.spiritoflogic.pwntunes.ios7
+Maintainer: SpiritOfLogic <support@pwntunes.net>
+Author: SpiritOfLogic <support@pwntunes.net>
+Sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+Section: Data Storage
+dev: spiritoflogic
+Tag: purpose::extension, purpose::commercial, cydia::commercial, role::enduser
+Size: 677228
+MD5sum: f35a1a69ddc2a1d2b34b756e0260a14c
+Filename: debs/com.spiritoflogic.pwntunes.ios8_v1.0.0.1_iphoneos-arm_julioverne.deb
+
+Package: com.spiritoflogic.retinaappicons
+Name: RetinaAppIcons
+Version: 1.0.0.2-1
+Architecture: iphoneos-arm
+Icon: file:///Applications/RetinaAppIcons.app/Icon.png
+Description: HighRes for ALL AppStore App Icons... - Features: Automatic high definition app icons for all AppStore apps,Works with most themes supported by WinterBoard,from the makers of PwnTunes iRealSMS 3.0 iRealQuickSMS iRealSMS 2.0 PhotoAlbums+ SpiritOfLogic,no crack,only on Cydia Store,works with jailbreak 3.0 4.0 3.x 4.x firmware,highres high resolution appicons appstore lowres retinadisplay iphone 4 retina display iphone4 theme fullres resolution icons
+Homepage: http://retinaappicons.irealsms.com/
+Depiction: http://retinaappicons.irealsms.com/cydia/retinaappicons/
+Depends: mobilesubstrate
+Replaces: 
+Conflicts: 
+Maintainer: SpiritOfLogic <support@irealsms.com>
+Author: SpiritOfLogic <support@irealsms.com>
+Sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+Section: Tweaks
+dev: spiritoflogic
+Tag: purpose::backend, purpose::commercial, cydia::commercial, role::enduser
+Size: 271742
+MD5sum: 86ed5f647484cd6224279c02ca3356b6
+Filename: debs/com.spiritoflogic.retinaappicons_v1.0.0.2-1_iphoneos-arm_julioverne.deb
+
+Package: com.spiritoflogic.speedtrapsforgmaps
+Name: SpeedTraps for GMaps
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Icon: file:///Library/PreferenceBundles/SpeedTrapsForGMaps.bundle/Icon.png
+Description: SpeedTrap alerts during Google Maps navigation automatically launches/kills Blitzer.de PRO RadarfallenWarningGeschwindigkeitskontrollenGoogleMapsAppNavigationTweakSBSettingsSwitchNoCrack
+Homepage: http://speedtrapsforgmaps.irealsms.com/
+Depiction: http://speedtrapsforgmaps.irealsms.com/cydia/speedtrapsforgmaps/
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000),  com.rpetrich.rocketbootstrap
+Replaces: 
+Conflicts: 
+Maintainer: SpiritOfLogic <support@irealsms.com>
+Author: SpiritOfLogic <support@irealsms.com>
+Sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+Section: Navigation
+dev: spiritoflogic
+Tag: purpose::extension, purpose::commercial, cydia::commercial, role::enduser
+Size: 128858
+MD5sum: 1ad9937bb254c9b4af9ad33a85eb2d57
+Filename: debs/com.spiritoflogic.speedtrapsforgmaps_v1.0.0.0_iphoneos-arm_julioverne.deb
+
+Package: com.spiritoflogic.tabplusplus
+Name: Tabby
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Icon: file:///Library/PreferenceBundles/TabPlusPlus.bundle/Icon.png
+Description: Truly Unlimited Tabs in Safari - no tab limit of 8 or 24 tabs in Safari browser,more tabs,tab count,tab number,WebbrowserWebbrowsingWebKitImprovementPluginAddonTweakSBSettingsSwitchNoCrack
+Homepage: http://www.tabplusplus.com/
+Depiction: http://www.tabplusplus.com/cydia/tabplusplus/
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
+Replaces: com.phoenix.tabplus
+Conflicts: com.phoenix.tabplus
+Maintainer: SpiritOfLogic <support@tabplusplus.com>
+Author: SpiritOfLogic <support@tabplusplus.com>
+Sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+Section: Productivity
+dev: spiritoflogic
+Tag: purpose::extension, purpose::commercial, cydia::commercial, role::enduser
+Size: 104298
+MD5sum: 0eae42d4f42351f05ebe6e1992e15fd5
+Filename: debs/com.spiritoflogic.tabplusplus_v1.0.0.0_iphoneos-arm_julioverne.deb
+
+Package: com.tigisoftware.appdatamanager
+Name: Apps Manager
+Depends: zip
+Version: 1.1.1-1
+Architecture: iphoneos-arm
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Maintainer: TIGI Software
+Author: TIGI Software
+Section: Utilities
+Installed-Size: 7456
+Size: 6286726
+MD5sum: 7e8261bec1701cadf5643575b9d485b3
+Filename: debs/com.tigisoftware.appdatamanager_v1.1.1-1_iphoneos-arm_julioverne.deb
+
+Package: com.tigisoftware.filza64bit
+Name: Filza File Manager 64-bit
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza
+Version: 3.4.0-25
+Architecture: iphoneos-arm
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices
+Maintainer: TIGI Software
+Author: TIGI Software
+Section: Utilities
+Installed-Size: 21088
+Size: 12794844
+MD5sum: d5ce6c5b4685730ac4a0b009885e20d5
+Filename: debs/com.tigisoftware.filza64bit_v3.4.0-25_iphoneos-arm_julioverne.deb
+
+Package: com.tigisoftware.filza
+Name: Filza File Manager
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Version: 3.4.0-25
+Architecture: iphoneos-arm
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Maintainer: TIGI Software
+Author: TIGI Software
+Section: Utilities
+Installed-Size: 31904
+Size: 22333008
+MD5sum: ea06375544aeec19deb39b52b11cfe1e
+Filename: debs/com.tigisoftware.filza_v3.4.0-25_iphoneos-arm_julioverne.deb
+
+Author: Trinitus01 <trinitus01@googlemail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: donTouch
+Package: com.trinitus.dontouch
+Depends: mobilesubstrate (>= 0.9.5000), libactivator, preferenceloader (>= 2.2.2), applist, libstatusbar
+Conflicts: com.julioverne.cracktool, com.julioverne.mobilegestaltfaker
+Priority: optional
+Section: Tweaks
+Installed-Size: 449
+Version: 0.1.0-5
+Architecture: iphoneos-arm
+Description: lock/unlock springboard icon launching
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dontouchData
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dontouchData
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: trinitus
+Tag: cydia::commercial, purpose::extension, ios7support::1, ios8support::1
+Icon: file:///Library/PreferenceLoader/Preferences/donTouch@2x.png
+Size: 344298
+MD5sum: 7d165cf9c411bfda5d9c0efca12e5bce
+Filename: debs/com.trinitus.dontouch_v0.1.0-5_iphoneos-arm_julioverne.deb
+
+Author: Trinitus01 <trinitus01@googlemail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: iconNotifier
+Package: com.trinitus.iconnotifier
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Conflicts: com.julioverne.cracktool, com.julioverne.mobilegestaltfaker
+Priority: optional
+Section: Tweaks
+Installed-Size: 241
+Version: 0.0.5-1
+Architecture: iphoneos-arm
+Description: Icon-based scrolling notifications system
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconnotifierData
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconnotifierData
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: trinitus
+Tag: cydia::commercial, purpose::extension, ios7support::1, ios8support::1
+Icon: file:///Library/PreferenceLoader/Preferences/iconNotifier@2x.png
+Size: 179940
+MD5sum: 60233526e5fa93132bd17072c5a2675e
+Filename: debs/com.trinitus.iconnotifier_v0.0.5-1_iphoneos-arm_julioverne.deb
+
+Author: Trinitus01 <trinitus01@googlemail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: springPage
+Package: com.trinitus.springpage
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: com.julioverne.cracktool, com.julioverne.mobilegestaltfaker
+Priority: optional
+Section: Tweaks
+Installed-Size: 3312
+Version: 1.0.7-1
+Architecture: iphoneos-arm
+Description: Per page springboard wallpapers
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springpageDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springpageDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: trinitus
+Tag: cydia::commercial, purpose::extension, ios7support::1, ios8support::1
+Icon: file:///Library/PreferenceBundles/springPagePrefs.bundle/springPage@2x.png
+Size: 1151202
+MD5sum: 3f30f02e0238424005119bf8b6c5b1c9
+Filename: debs/com.trinitus.springpage_v1.0.7-1_iphoneos-arm_julioverne-fixed2.deb
+
+Package: com.tweakwiz.zentrum
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0), com.tweakwiz.wizlib (>= 1.4.3), applist (>= 1.5.11), libactivator
+Name: Zentrum
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: Apps, Multitasking, Music & Toggles in one place.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=zentrumDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=zentrumDp
+Installed-Size: 732
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: TweakWiz <support@tweakwiz.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: tweakwiz
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
+Icon: file:///Library/PreferenceBundles/ZentrumPrefs.bundle/ZentrumImages/Zentrum@2x.png
+Size: 372956
+MD5sum: 2f8956d8f2ea1df2b1d7034ad2af4822
+Filename: debs/com.tweakwiz.zentrum_v1.0.3_iphoneos-arm_julioverne.deb
+
+Homepage: https://beta.unlimapps.com/depiction/com.unlimapps.uasharedtools/
+Depiction: https://beta.unlimapps.com/depiction/com.unlimapps.uasharedtools/
+Author: UnlimApps Inc. <support@unlimapps.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: uasharedtools
+Package: com.unlimapps.uasharedtools
+Depends: mobilesubstrate, firmware (>= 7.0)
+Conflicts: com.yourepo.abo1bs.uasharedtoolsno-ads, com.hackyouriphone.uasharedtools
+Section: Development
+Version: 2.1r-61
+Architecture: iphoneos-arm
+Description: shared tools for unlimapps tweaks
+dev: i4iphones
+Tag: purpose::library, cydia::obsolete, role::developer
+Size: 15470418
+MD5sum: 4af2acdd8fde4ed01bd8cc043e8f3167
+Filename: debs/com.unlimapps.uasharedtools_v2.1r-61_iphoneos-arm_julioverne.deb
+
+Author: moeseth <cydia@wootylab.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Infinite Tweet 2
+Package: com.w00tylab.infinitetweet2
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware (>= 7.0)
+Conflicts: com.w00tylab.140plusfortwitter, com.samstone.tweetlonger, com.w00tylab.twitplaying, com.w00tylab.infinitetweet
+Section: Tweaks
+Installed-Size: 1313
+Version: 2.4-1
+Architecture: iphoneos-arm
+Description: Tweet over 140, expand twitlonger post and more.
+	Tweet more than 140 words from Twitter.app or Tweetbot.app via twitlonger.com  Inline text expanding for twitlonger posts. (by doing so, you can view texts faster with lesser amount of bandwidth usage; skip ads from website): 
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=infinitetweet2Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=infinitetweet2Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: moeseth
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8
+Icon: file:///Library/PreferenceBundles/infinitetweet.bundle/infinitetweet@2x.png
+Size: 1193620
+MD5sum: 6f1d891109d6549ff83510529ef400f7
+Filename: debs/com.w00tylab.infinitetweet2_v2.4-1_iphoneos-arm_julioverne.deb
+
+Author: moeseth <cydia@wootylab.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Infinite Tweet
+Package: com.w00tylab.infinitetweet
+Depends: mobilesubstrate, preferenceloader (>= 2.0.2), firmware (>= 4.0)
+Conflicts: com.w00tylab.140plusfortwitter, com.samstone.tweetlonger, com.w00tylab.twitplaying
+Section: Tweaks
+Installed-Size: 1413
+Version: 1.5.3-1
+Architecture: iphoneos-arm
+Description: Tweet over 140, expand twitlonger post and more.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=infinitetweetDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=infinitetweetDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: moeseth
+Tag: cydia::commercial, purpose::extension
+Icon: file:///Library/PreferenceBundles/infinitetweet.bundle/infinitetweet@2x.png
+Size: 1376552
+MD5sum: 652b6066d9d8d364a500043ac5aac0f7
+Filename: debs/com.w00tylab.infinitetweet_v1.5.3-1_iphoneos-arm_julioverne.deb
+
+Author: moeseth <cydia@wootylab.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: TwitkaFly iOS 7/8+
+Package: com.w00tylab.twitkafly7
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.0.2), firmware (>= 7.0)
+Conflicts: com.w00tylab.twitkaflylite, com.w00tylab.twitkafly, com.w00tylab.twitkafly2, com.w00tylab.tkfswitch
+Section: Tweaks
+Installed-Size: 931
+Version: 2.2-1
+Architecture: iphoneos-arm
+Description: QuickCompose & Reply for Twitter, Tweetbot
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=twitkafly7Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=twitkafly7Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: moeseth
+Tag: cydia::commercial, purpose::extension, ios7support::1, ios8support::1
+Icon: file:///Library/PreferenceBundles/twitkafly.bundle/TwitkaFly@2x.png
+Size: 363108
+MD5sum: f75518c84bd03d69ca52ef019598a53f
+Filename: debs/com.w00tylab.twitkafly7_v2.2-1_iphoneos-arm_julioverne-fixed.deb
+
+Package: com.zmaster.androidlockxt
+Name: AndroidLock XT
+Version: 3.6
+Architecture: iphoneos-arm
+Author: Zmaster <zmaster.adsl@gmail.com>
+Depends: mobilesubstrate, preferenceloader (>= 2.0.3-2), firmware (>= 3.2)
+Conflicts: com.intelliborn.intelliscreen, cydialer, com.zmaster.androidlock
+Depiction: http://modmyi.com/info/androidlockxt.d.php
+Priority: extra
+Section: System
+Description: An Android-like lockscreen where you have to draw the correct pattern to unlock.
+Homepage: http://modmyi.com/info/androidlockxt.php
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+tag: cydia::commercial
+Size: 3884108
+MD5sum: 67d5a54e2c7e2087876b98fd56da159a
+Filename: debs/com.zmaster.androidlockxt_v3.6_iphoneos-arm_julioverne.deb
+
+Package: eu.heinelt.ifile
+Name: iFile
+Version: 2.2.0-1
+Architecture: iphoneos-arm
+Installed-Size: 20224
+Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
+Description: A File Manager and Viewer. iFile is a file manager runnning under user root. It allows fast navigation through the iPhone file system. It allows direct viewing of files of various types, e.g. movies, sound, text, HTML, Microsoft types, PDF, ZIP. For PDF files direct jumping to pages is possible. ZIP packing and unpacking is also supported. Files can be sent as email attachments. Text files and property lists can be edited. Folders and files can be bookmarked. In addition, files can be uploaded and downloaded from iFile's built-in web server.
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ifileData
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ifileData
+Maintainer: Carsten Heinelt <ifile@iphone.heinelt.eu>
+Author: Carsten Heinelt <ifile@iphone.heinelt.eu>
+Section: System
+dev: carsten
+Tag: purpose::uikit, cydia::commercial
+Size: 9746924
+MD5sum: ddc9167327952ca9c14c51e3163faa55
+Filename: debs/eu.heinelt.ifile_v2.2.0-1_iphoneos-arm_julioverne.deb
+
+Package: Flex2Blackpackagebeta
+Name: Flex 2.5
+Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap (>= 1.0)
+Conflicts: Flexpackage, Flexpackagebeta, FlexiOS7packagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package, Flex2PointFivepackagebeta, com.fuyuchi.flex2, Flex2Blackpackage
+Replaces: Flexpackage, Flexpackagebeta, FlexiOS7packagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package, Flex2PointFivepackagebeta, com.fuyuchi.flex2, Flex2Blackpackage
+Version: 1:2.5~Beta18
+Architecture: iphoneos-arm
+Description: Flex 2 for iOS 9
+Maintainer: John Coates
+Author: John Coates
+Section: Tweaks
+Size: 22029986
+MD5sum: 0479b9810c6f5a789b54fe1e711bdfad
+Filename: debs/flex2blackpackagebeta_v2.5-Beta18_iphoneos-arm_julioverne.deb
+
+Package: Flex2packagebeta
+Name: Flex 2
+Depends: mobilesubstrate, firmware (<< 7.0) | com.rpetrich.rocketbootstrap (>= 1.0)
+Conflicts: Flexpackage, Flexpackagebeta, FlexiOS7packagebeta, com.fuyuchi.flex, com.fuyuchi.flex2, Flex2package
+Replaces: Flexpackage, Flexpackagebeta, FlexiOS7packagebeta, com.fuyuchi.flex, com.fuyuchi.flex2, Flex2package
+Version: 1.994
+Architecture: iphoneos-arm
+Description: Easily make your own tweaks, and share them on the Flex Community Cloud.
+Maintainer: John Coates
+Author: John Coates
+Section: Tweaks
+Size: 2424634
+MD5sum: 4ec78dd73b661440d53aaa75bc7e52ec
+Filename: debs/flex2packagebeta_v1.994_iphoneos-arm_julioverne.deb
+
+Package: hapticpro
+Priority: optional
+Section: System
+Architecture: iphoneos-arm
+Description: Customizable haptic feedback for the keyboard, buttons and more!
+Depiction: http://rpetrich.com/cydia/hapticpro/
+Homepage: http://rpetrich.com/cydia/hapticpro/
+Name: HapticPro
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.5) | firmware (<< 7.0), shell-cmds
+Author: Ryan Petrich <rpetrich@gmail.com>
+Conflicts: gsc.wildcat, gsc.ipad
+dev: ryanpetrich
+Tag: cydia::commercial
+Icon: file:///System/Library/PreferenceBundles/HapticPro.bundle/icon@2x.png
+Version: 1.4.2
+Installed-Size: 844
+Size: 235088
+MD5sum: 19f8481199b3bf30c874c765793e812d
+Filename: debs/hapticpro_v1.4.2_iphoneos-arm_julioverne.deb
+
+Package: iblacklist
+Priority: optional
+Section: Utilities
+Maintainer: spektro and hdsq2 <support@iblacklist.com.br>
+Architecture: iphoneos-arm
+Version: 9.3
+Description: iBlacklist is the best firewall for iMessages, calls, facetime, SMS and MMS  available for the iDevices. Now it blocks also FaceTime/iMessages and runs on iPods and iPads.It ables you to select from who you want to receive calls and hide messages. It also removes the sms popup preview protecting your privacy, has parental control mode by blocking outgoing calls, can be fully scheduled and many other features. Try it , you'll love it.  Works on any iPhone model running any firmware version  !!! PLEASE RESTART YOUR DEVICE AFTER INSTALL. REBOOT IF YOU ARE ON IOS4.
+Pre-Depends: dpkg (>= 1.13.25-5)
+Depends: mobilesubstrate, shell-cmds, firmware(<< 4.0) | libstatusbar
+Author: spektro and hdsq2 <support@iblacklist.com.br>
+Name: iBlacklist
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iblacklistData
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iblacklistData
+dev: spektro and hdsq2
+Size: 2965762
+MD5sum: 443f72db45eefab268219bd68fe6e216
+Filename: debs/iblacklist_v9.3_iphoneos-arm_julioverne.deb
+
+Package: io.ijapija00.amalthea
+Depends: mobilesubstrate, firmware (>=9.0), firmware (<= 9.3.5), preferenceloader
+Name: Amalthea (iOS 9)
+Version: 1.1.10-1
+Architecture: iphoneos-arm
+Description: Volume HUD in the Status Bar...
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=amaltheaDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=amaltheaDp
+Installed-Size: 513
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: ijapija00 <ijapija00@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: ijapija00
+Tag: cydia::commercial, purpose::extension, compatible::ios9
+Icon: file:///Library/PreferenceBundles/Amalthea.bundle/Amalthea@2x.png
+Size: 119044
+MD5sum: d3721c059e261b95b6056e75e28a1eb9
+Filename: debs/io.ijapija00.amalthea_v1.1.10-1_iphoneos-arm_julioverne.deb
+
+Package: io.ijapija00.callisto
+Depends: mobilesubstrate, preferenceloader, firmware (>=8.0), firmware (<=9.3.5), com.rpetrich.rocketbootstrap
+Conflicts: org.thebigboss.timepasscodepro, com.expetelek.timepasscode, io.ijapija00.timepasscode9, io.ijapija00.timepasscode
+Name: Callisto (iOS 9/8)
+Version: 1.4.7
+Architecture: iphoneos-arm
+Description: The current time is your passcode...
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=callistoDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=callistoDp
+Installed-Size: 709
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: ijapija00 <ijapija00@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: ijapija00
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
+Icon: file:///Library/PreferenceBundles/Callisto.bundle/Callisto@2x.png
+Size: 129662
+MD5sum: d9e06e1944f199f770256ee0f996dc00
+Filename: debs/io.ijapija00.callisto_v1.4.7_iphoneos-arm_julioverne.deb
+
+Package: io.ijapija00.callistopro
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0), io.ijapija00.alwaystouch (>=1.1.2), applist, org.thebigboss.libcolorpicker
+Conflicts: io.ijapija00.callisto, io.ijapija00.lasttimeunlocked, io.ijapija00.creamy, io.ijapija00.tapticpasscodebuttons
+Name: Callisto Pro (iOS 10)
+Version: 1.2.2
+Architecture: iphoneos-arm
+Description: A highly advanced passcode system.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=callistoproios10Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=callistoproios10Dp
+Installed-Size: 353
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: @ijapija00 <support@ijapija00.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: ijapija00
+Tag: cydia::commercial, purpose::extension, compatible::ios10
+Icon: file:///Library/PreferenceBundles/CallistoPro.bundle/CallistoPro@2x.png
+Size: 118358
+MD5sum: 316323ea39ae6bf5dd33fee846363187
+Filename: debs/io.ijapija00.callistopro_v1.2.2_iphoneos-arm_julioverne.deb
+
+Name: CCRecorder (iOS 10)
+Package: io.ijapija00.ccrecorder
+Priority: optional
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Record Your Screen From The Control Center...
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccrecorderDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccrecorderDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: ijapija00 <ijapija00@gmail.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios10
+Installed-Size: 512
+dev: ijapija00
+Icon: file:///Library/PreferenceBundles/CCRecorder.bundle/Icon@2x.png
+Size: 108490
+MD5sum: bcbb0472bf516ba7202b561c8a27f57f
+Filename: debs/io.ijapija00.ccrecorder_v1.0_iphoneos-arm_julioverne.deb
+
+Name: CustomTime+ (iOS 10/9)
+Package: io.ijapija00.customtimeplus
+Priority: optional
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
+Version: 1.2.2
+Architecture: iphoneos-arm
+Description: Custom Clock String In The Status Bar...
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customtimeplusDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customtimeplusDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: @ijapija00 <support@ijapija00.com>
+Section: Tweaks
+Tag: cydia::commercial, purpose::extension, compatible::ios9, compatible::ios10
+Installed-Size: 580
+dev: ijapija00
+Icon: file:///Library/PreferenceBundles/CustomTime.bundle/Icon@2x.png
+Size: 153620
+MD5sum: 4fab0a1e233190f41bd5f8675f1c7e0b
+Filename: debs/io.ijapija00.customtimeplus_v1.2.2_iphoneos-arm_julioverne.deb
+
+Name: DragMeDown (iOS 10)
+Package: io.ijapija00.dragmedown
+Priority: optional
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, applist
+Version: 1.1.3
+Architecture: iphoneos-arm
+Description: A highly advanced multitasking tweak!
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dragmedownDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dragmedownDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: @ijapija00 <support@ijapija00.com>
+Section: Tweaks
+Tag: cydia::commercial, purpose::extension, compatible::ios10
+Installed-Size: 356
+dev: ijapija00
+Icon: file:///Library/PreferenceBundles/DragMeDown.bundle/DragMeDown@2x.png
+Size: 111848
+MD5sum: 042c6dbdeb16fba3b86b17f91ffdaa38
+Filename: debs/io.ijapija00.dragmedown_v1.1.3_iphoneos-arm_julioverne.deb
+
+Name: Lysithea X
+Package: io.ijapija00.lysithea
+Priority: optional
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, net.limneos.libbulletin
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: iOS 11 Lock Screen Media Controls
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lysitheaDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lysitheaDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: @ijapija00 <support@ijapija00.com>
+Section: Tweaks
+Tag: cydia::commercial, purpose::extension, compatible::ios10
+Installed-Size: 261
+dev: ijapija00
+Icon: file:///Library/PreferenceBundles/LysitheaX.bundle/Lysithea@2x.png
+Size: 80688
+MD5sum: c9140897f7fc94ccbc07c40c4fc79aee
+Filename: debs/io.ijapija00.lysithea_v1.0.3_iphoneos-arm_julioverne.deb
+
+Name: ASUpdateHider
+Package: it.marcocristalli.asupdatehider
+Priority: optional
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
+Version: 1.3-2
+Architecture: iphoneos-arm
+Description: Hide updates directly from the AppStore
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=asupdatehiderDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=asupdatehiderDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Marco Cristalli <marcocristalli91@gmail.com>
+Section: Tweaks
+Tag: purpose::extension, cydia::commercial, ios8support::1, ios8support::1
+Installed-Size: 745
+dev: marcocristalli
+Icon: file:///Library/PreferenceBundles/ASUpdateHiderSettings.bundle/ASUpdateHiderSettings@2x.png
+Size: 220462
+MD5sum: e46967be13d07459944c231c5a9db354
+Filename: debs/it.marcocristalli.asupdatehider_v1.3-2_iphoneos-arm_julioverne.deb
+
+Package: jp.r-plus.cloaky
+Depends: mobilesubstrate (>= 0.9.5000), applist (>= 1.5.6), firmware (>= 4.0), preferenceloader (>= 2.2.2)
+Name: Cloaky
+Version: 3.1.2
+Architecture: iphoneos-arm
+Description: Cloak annoyance items!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cloakyDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cloakyDp
+Installed-Size: 611
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: r_plus <anasthasia.r+cloaky@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: rplus
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:///Library/PreferenceBundles/CloakySettings.bundle/Cloaky@2x.png
+Size: 146830
+MD5sum: 04cc39a28f6c2eb2c1a5f6d060423009
+Filename: debs/jp.r-plus.cloaky_v3.1.2_iphoneos-arm_julioverne.deb
+
+Author: typ0s2d10 <typ0s2d10@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: tsProtector 8+ (iOS 9 & 8)
+Package: kr.typostudio.tsprotector8
+Depends: firmware(>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
+Conflicts: kr.typostudio.tsprotector.8, kr.typostudio.tsprotector.p, org.thebigboss.tsprotectorp, kr.typostudio.tsprotector.pfb, kr.typostudio.tsprotector8.ft
+Section: Tweaks
+Installed-Size: 526
+Version: 1.2.0-20
+Architecture: iphoneos-arm
+Description: Protect system from suspicious apps
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tsprotector8Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tsprotector8Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: typ0s2d10
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
+Icon: file:///Library/PreferenceBundles/tsProtectorSettings.bundle/tsProtector@2x.png
+Size: 178146
+MD5sum: 6c036818001c9dec1a0778a22ee931fe
+Filename: debs/kr.typostudio.tsprotector8_v1.2.0-20_iphoneos-arm_julioverne.deb
+
+Package: me.alfhaily.cercube
+Name: Cercube for YouTube
+Version: 4.1.3
+Description: Download YouTube videos and more!
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate, me.alfhaily.adblockforyoutube, com.rpetrich.rocketbootstrap, me.alfhaily.cercube.lib (>= 1.0.6)
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2
+Priority: optional
+Architecture: iphoneos-arm
+Author: Majd Alfhaily
+Depiction: http://apt.alfhaily.me/depictions/cercube
+Icon: file:///Library/Application Support/Cercube/Cercube.bundle/AppIcon.png
+Size: 3603002
+MD5sum: 5612214cf8ffa3b0401fd79f7684362c
+Filename: debs/me.alfhaily.cercube_v4.1.3_iphoneos-arm_julioverne.deb
+
+Name: AutoTouch
+Package: me.autotouch.autotouch.ios8
+Priority: optional
+Depends: firmware (>= 8.0), mobilesubstrate (>=0.9.5000), libactivator, applist (>= 1.4.1)
+Conflicts: me.autotouch.autotouch.ios7
+Version: 3.6.1-1
+Architecture: iphoneos-arm
+Description: record and playback touch operations
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=autotouch8Dp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=autotouch8Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Kent Krantz <kentkrantz@gmail.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Installed-Size: 9421
+dev: kentkrantz
+Icon: file:///Applications/AutoTouch.app/AppIcon29x29@2x.png
+Size: 3190414
+MD5sum: 1edc7a3f362fc9d79c91d33e50a3fd62
+Filename: debs/me.autotouch.autotouch.ios8_v3.6.1-1_iphoneos-arm_julioverne.deb
+
+Author: Majd Alfhaily <freemanrepo@me.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Cercube
+Package: me.freemanrepo.cercube
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, com.ouraigua.jodebox
+Section: Tweaks
+Installed-Size: 2721
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Fully-featured youtube downloader!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cercubeDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cercubeDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: freemanrepo
+Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios7, compatible::ios8
+Icon: file:///Library/Application%20Support/Cercube/cercube_icon-cydia59x59.png
+Size: 1139680
+MD5sum: 4af30eb6755a19a22bf051316c7afeb1
+Filename: debs/me.freemanrepo.cercube_v1.0.0_iphoneos-arm_julioverne-fixed.deb
+
+Author: joedj <keepsecret@joedj.net>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: KeepSecret
+Package: net.joedj.keepsecret
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5016), bash, shell-cmds
+Section: Tweaks
+Installed-Size: 555
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description: Disable iMessage Kept Receipts
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keepsecretDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keepsecretDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: joejordan
+Tag: cydia::commercial, purpose::extension, role::enduser, ios8support::1, ios8support::1
+Icon: file:///Library/Application%20Support/KeepSecret/KeepSecret.png
+Size: 211872
+MD5sum: 2143bdd19e66be8d22ad28cd2cef9932
+Filename: debs/net.joedj.keepsecret_v1.0-1_iphoneos-arm_julioverne.deb
+
+Author: Joe Jordan <nitrous@joedj.net>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Nitrous
+Package: net.joedj.nitrous
+Depends: firmware (>= 4.3), mobilesubstrate (>= 0.9.5015), preferenceloader (>= 2.2.2), applist (>= 1.5.9)
+Breaks: io.pangu.xuanyuansword8 (<< 0.2)
+Section: Tweaks
+Installed-Size: 358
+Version: 2.5-6
+Architecture: iphoneos-arm
+Description: Give JavaScript a speed boost with Nitro
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nitrousDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nitrousDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: joejordan
+Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:///Library/PreferenceBundles/Nitrous.bundle/Nitrous@2x.png
+Size: 123074
+MD5sum: 765cc9688e8fb405e052ed71246c9b1f
+Filename: debs/net.joedj.nitrous_v2.5-6_iphoneos-arm_julioverne.deb
+
+Author: joedj <revelation@joedj.net>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Revelation
+Package: net.joedj.revelation
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), bash, shell-cmds
+Section: Tweaks
+Installed-Size: 348
+Version: 1.3-2
+Architecture: iphoneos-arm
+Description: Reveal forgotten passwords
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=revelationDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=revelationDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: joejordan
+Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios7, compatible::ios8
+Icon: file:///Library/PreferenceBundles/Revelation.bundle/Revelation@2x.png
+Size: 81858
+MD5sum: 24a474a78f2534c518241de170cd60dd
+Filename: debs/net.joedj.revelation_v1.3-2_iphoneos-arm_julioverne.deb
+
+Author: joedj <typingprivacy@joedj.net>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: TypingPrivacy
+Package: net.joedj.typingprivacy
+Depends: firmware (>= 5.0), mobilesubstrate, shell-cmds, bash
+Section: Tweaks
+Installed-Size: 347
+Version: 1.2-4
+Architecture: iphoneos-arm
+Description: Disable iMessage typing notifications
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=typingprivacyDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=typingprivacyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: joejordan
+Tag: cydia::commercial, purpose::extension, role::enduser, ios7support::1, ios8support::1
+Icon: file:///Library/Application%20Support/TypingPrivacy/TypingPrivacy.bundle/TypingPrivacy@2x.png
+Size: 205284
+MD5sum: 8877a4242567cb84217429319d294847
+Filename: debs/net.joedj.typingprivacy_v1.2-4_iphoneos-arm_julioverne.deb
+
+Package: net.limneos.answeringmachine
+Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>= 0.1-80), zip, com.rpetrich.rocketbootstrap (>=1.0.5), firmware (>= 8.0)
+Name: AnsweringMachine
+Version: 0.2-35
+Architecture: iphoneos-arm
+Description: Receive voicemails on device!
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=answeringmachineDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=answeringmachineDp
+Installed-Size: 1883
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Elias Limneos <limneoselias@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: limneos
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Applications/AnsweringMachine.app/CydiaIcon.png
+Size: 607202
+MD5sum: 698c3258be3241fc6c20200d156fcb75
+Filename: debs/net.limneos.answeringmachine_v0.2-35_iphoneos-arm_julioverne.deb
+
+Package: net.limneos.aquaboard8
+Depends: mobilesubstrate (>= 0.9.5000), preferenceLoader (>= 2.2.2), firmware (>= 8.0)
+Conflicts: net.limneos.aquaboard, com.fuyuchi.unlockize
+Name: AquaBoard (iOS 10/9/8)
+Version: 2.2-29
+Architecture: iphoneos-arm
+Description: Amazing Water Effects On SpringBoard
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=aquaboard8Dp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=aquaboard8Dp
+Installed-Size: 443
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Elias Limneos <limneoselias@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: limneos
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Library/PreferenceBundles/AquaPrefs.bundle/AquaPrefs@2x.png
+Size: 104426
+MD5sum: 82ec3bce974ff11099af67512c1f4c0b
+Filename: debs/net.limneos.aquaboard8_v2.2-29_iphoneos-arm_julioverne.deb
+
+Package: net.limneos.audiorecorder
+Name: AudioRecorder 2 (iOS 8 & 9)
+Depends: mobilesubstrate, zip, preferenceloader, com.rpetrich.rocketbootstrap
+Conflicts: net.limneos.callrecorder
+Architecture: iphoneos-arm
+Description: First iOS Call Recorder Ever!
+Depiction: http://www.limneos.net/cydia/depiction.php?package=net.limneos.audiorecorder
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Author: Elias Limneos <limneoselias@gmail.com>
+Section: Tweaks
+Version: 1.3-37
+Installed-Size: 7664
+Size: 3043792
+MD5sum: 159f123ec3b007c68c6b8de1b08fed63
+Filename: debs/net.limneos.audiorecorder_v1.3-37_iphoneos-arm_julioverne.deb
+
+Package: net.limneos.autoanswer8
+Conflicts: net.limneos.autoanswer
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware (>= 8.0)
+Name: AutoAnswer8 (iOS 8)
+Version: 0.1-4
+Architecture: iphoneos-arm
+Description: Auto-Answer Phone and FaceTime calls.
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=autoanswer8Dp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=autoanswer8Dp
+Installed-Size: 253
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Elias Limneos <limneoselias@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: limneos
+Tag: cydia::commercial, purpose::extension, compatible::ios8
+Icon: file:///Library/PreferenceBundles/AutoAnswer.bundle/AutoAnswer@2x.png
+Size: 73278
+MD5sum: 3115ea2cf5f26c85cd4f951c2df69d61
+Filename: debs/net.limneos.autoanswer8_v0.1-4_iphoneos-arm_julioverne.deb
+
+Package: net.limneos.callrecorder
+Name: Audio Recorder
+Depends: mobilesubstrate (>= 0.9.5000) ,preferenceLoader
+Architecture: iphoneos-arm
+Icon: file:///Library/PreferenceLoader/Preferences/CallRecorder.png
+Description: First iPhone Call Recorder Ever!
+ : 
+ Record regular phone calls directly on your iPhone.: 
+ Supported iOS 6.x to 8.x: 
+  : 
+ Now Supports iOS 8.x including iPhone 6 and 6 Plus!!!: 
+ Audio Recorder, the so anticipated tweak for iPhone , has come to prove it was possible!: 
+ With Audio Recorder, you can record the phone calls you need to listen to later, such as business calls, appointment arrangements etc and you can store them locally on your iPhone.: 
+ You can then play them, send them to your email or delete them.: 
+ There are options to automatically notify the remote party with a warning voice message that the call will be recorded at the beginning of your recording. (You are responsible for enabling or disabling this according to your country's law, since the other party's consent is necessary by law in many countries): 
+ Audio Recorder does not use a remote server to store your calls, like other apps use as a workaround. It records directly on the device! There is no need for an internet connection when you record a call.: 
+ Although Audio Recorder can automatically notify the other party that the call is being recorded, you should be aware that recording call conversations without the other party's consent is illegal in many countries. Check to comply with your country's laws before buying or using this application. The developer or the seller take no responsibility if you use this application in any way that would result in breaking the law.: 
+ Currently, on iPhone4S devices it only works when you switch to Speaker while in a call.: 
+ The application works on iPhone 4S,iPhone 5,iPhone 5S and iPhone 6/6 Plus devices.: 
+ The tweak that so many people have been waiting for is finally here!: 
+ Audio Recorder's price is $ 3.99: 
+ Version 0.7 Changes: Added full iOS 8.x and iPhone 6 support
+ Version 0.5.x Changes: Added full iOS 7.x.x and iPhone 5S support, added option to transfer license on device
+Maintainer: Elias Limneos
+Author: Elias Limneos
+Section: Tweaks
+Version: 0.7-47
+Installed-Size: 1172
+Size: 457654
+MD5sum: 2b7b226dc2eebca58e185a329cd268cc
+Filename: debs/net.limneos.callrecorder_v0.7-47_iphoneos-arm_julioverne.deb
+
+Package: net.limneos.musictransport
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Name: MusicTransport
+Version: 0.2-9
+Architecture: iphoneos-arm
+Description: Transmit music/sounds over phone call!
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=musictransportDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=musictransportDp
+Installed-Size: 622
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Elias Limneos <limneoselias@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: limneos
+Tag: cydia::commercial, purpose::extension, compatible::ios8. compatible::ios9
+Icon: file:///Library/PreferenceBundles/MusicTransportPrefs.bundle/MusicTransportPrefs@2x.png
+Size: 183908
+MD5sum: 722296a4d093329b37760faacb2895ba
+Filename: debs/net.limneos.musictransport_v0.2-9_iphoneos-arm_julioverne.deb
+
+Package: net.limneos.nfcwriter
+Depends: firmware (>= 10.0), mobilesubstrate
+Name: NFCWriter
+Version: 0.1-113
+Architecture: iphoneos-arm
+Description: use your NFC chip to its maximum
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nfcwriterDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nfcwriterDp
+Installed-Size: 878
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Elias Limneos <limneoselias@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: limneos
+Tag: cydia::commercial, purpose::extension, compatible::ios10
+Icon: file:///Applications/NFCWriter.app/icon@2x.png
+Size: 251108
+MD5sum: ef5edc3961c82a4e3173f76f0909f00a
+Filename: debs/net.limneos.nfcwriter_v0.1-113_iphoneos-arm_julioverne.deb
+
+Package: net.limneos.photoslive
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap
+Conflicts: org.thebigboss.photores
+Name: PhotosLive
+Version: 0.2-284
+Architecture: iphoneos-arm
+Description: Give LIFE to your Photos!
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=photosliveDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=photosliveDp
+Installed-Size: 836
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Elias Limneos <limneoselias@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: limneos
+Tag: cydia::commercial, purpose::extension, compatible::ios8
+Icon: file:///Library/PreferenceBundles/PhotosLive.bundle/PhotosLive@2x.png
+Size: 267246
+MD5sum: 38e8e6125b19f7caf53f0da0f5a3faac
+Filename: debs/net.limneos.photoslive_v0.2-284_iphoneos-arm_julioverne.deb
+
+Package: net.limneos.rotator8
+Name: SBRotator (iOS 9 & 8)
+Version: 1.1-1
+Architecture: iphoneos-arm
+Description: SpringBoard and Lockscreen Rotation
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sbrotator8Dp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sbrotator8Dp
+Installed-Size: 1211
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Elias Limneos <sbrotator@limneos.net>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: limneos
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: com.saurik.iphone.fid, com.phoenix.moreicons,net.limneos.lsrotator, com.modmyi.multitaskingtime, com.xsellize.appswitcherrotator, org.thebigboss.appswitcherrotator
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
+Icon: file:///Library/PreferenceBundles/sbrotator8.bundle/sbrotator8@2x.png
+Size: 723564
+MD5sum: 7dfd83079e42de2420e9281d8890daf5
+Filename: debs/net.limneos.rotator8_v1.1-1_iphoneos-arm_julioverne.deb
+
+Package: net.limneos.smarttap
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Name: SmartTap
+Version: 0.8-350
+Architecture: iphoneos-arm
+Description: Turn on the screen by tapping it!
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=smarttapDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=smarttapDp
+Installed-Size: 481
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Elias Limneos <iphone@limneos.net>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: limneos
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Library/PreferenceBundles/SmartTapSettings.bundle/SmartTapSettings@2x.png
+Size: 107908
+MD5sum: f48c7b84797372658e45c8541bf76836
+Filename: debs/net.limneos.smarttap_v0.8-350_iphoneos-arm_julioverne.deb
+
+Author: CoolStar <coolstarorganization@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: 3DSwitcher 2 (iOS 9 & 10)
+Package: org.coolstar.3dswitcher2
+Conflicts: org.coolstar.coverflowswitcher
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Section: Tweaks
+Installed-Size: 1334
+Version: 2.0.4
+Architecture: iphoneos-arm
+Description: 3D display modes for the app switcher
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=3dswitcher2Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=3dswitcher2Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: coolstar
+Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios9, compatible::ios10
+Icon: file:///Library/PreferenceBundles/3DSwitcher.bundle/3DSwitcher@2x.png
+Size: 1025264
+MD5sum: b2615962477851d2f5c1bfc230b0c8e9
+Filename: debs/org.coolstar.3dswitcher2_v2.0.4_iphoneos-arm_julioverne.deb
+
+Author: CoolStar & Jeremy Goulet <coolstarorganization@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: ClassicFolders 2
+Package: org.coolstar.classicfolders2
+Conflicts: org.coolstar.classicfolders
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Section: Tweaks
+Installed-Size: 2712
+Version: 2.0.4
+Architecture: iphoneos-arm
+Description: Bring back iOS 6 folders to iOS 8 - 10!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=classicfolders2Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=classicfolders2Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: coolstar
+Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Library/PreferenceBundles/ClassicFoldersSettings.bundle/icon-29@2x.png
+Size: 3122092
+MD5sum: 377218c2654717876713c36e3dc76976
+Filename: debs/org.coolstar.classicfolders2_v2.0.4_iphoneos-arm_julioverne.deb
+
+Author: CoolStar & Jeremy Goulet <coolstarorganization@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: ClassicFolders
+Package: org.coolstar.classicfolders
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Section: Tweaks
+Installed-Size: 2711
+Version: 1.4.1
+Architecture: iphoneos-arm
+Description: Bring back iOS 6 folders to iOS 7/8/9!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=classicfoldersDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=classicfoldersDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: coolstar
+Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9
+Size: 2344908
+MD5sum: 0b0a9cbc6b7579a80d848f0ceb5102e3
+Filename: debs/org.coolstar.classicfolders_v1.4.1_iphoneos-arm_julioverne.deb
+
+Author: CoolStar, Jeremy Goulet, Phillip Tennen <coolstarorganization@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: ClassicLockScreen
+Package: org.coolstar.classiclockscreen
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), curl, firmware(<< 8.0) | org.coolstar.libclassictelephonyui (>= 1.1-1)
+Section: Tweaks
+Installed-Size: 1328
+Version: 3.3.1
+Architecture: iphoneos-arm
+Description: Hate the iOS 7 Lock Screen?
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=classiclockscreenDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=classiclockscreenDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: coolstar
+Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:///Library/PreferenceBundles/ClassicLockScreenSettings.bundle/ClassicLockScreenSettings@2x.png
+Size: 737026
+MD5sum: bf10256935e386796fb9251b3c2dbc9d
+Filename: debs/org.coolstar.classiclockscreen_v3.3.1_iphoneos-arm_julioverne.deb
+
+Name: ClassicSwitcher 3 [7/8/9/10]
+Package: org.coolstar.classicswitcher
+Priority: optional
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), curl
+Conflicts: com.thomasfinch.classicswitcher, org.thebigboss.classicswitcher
+Version: 3.0.5-1
+Architecture: iphoneos-arm
+Description: Bring the classic app switcher with a modern twist.
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=classicswitcher3Dp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=classicswitcher3Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: CoolStar <coolstarorganization@gmail.com>
+dev: coolstar
+Section: Tweaks
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Installed-Size: 3248
+Icon: file:///Library/PreferenceBundles/ClassicSwitcher.bundle/ClassicSwitcherLogo@2x.png
+Size: 2833528
+MD5sum: 0d8a31b8dc6f38c44cc31868345f401c
+Filename: debs/org.coolstar.classicswitcher_v3.0.5-1_iphoneos-arm_julioverne.deb
+
+Author: CoolStar & Jeremy Goulet <coolstarorganization@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Ventana
+Package: org.coolstar.ventana
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Section: Tweaks
+Installed-Size: 599
+Version: 1.0.4
+Architecture: iphoneos-arm
+Description: modern lock screen inspired by Windows 10
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ventanaDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ventanaDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: coolstar
+Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Library/PreferenceBundles/MetroLockScreenSettings.bundle/icon-29@2x.png
+Size: 1841786
+MD5sum: 522c782047840453b0975a5629995f9c
+Filename: debs/org.coolstar.ventana_v1.0.4_iphoneos-arm_julioverne.deb
+
+Package: org.hacx.callrecorder
+Name: Call Recorder (iOS)
+Version: 2.07-3
+Architecture: iphoneos-arm
+Icon: file:///Applications/CallRecorder.app/Icon.png
+Section: Tweaks
+Depends: firmware (>= 6.0), mobilesubstrate, applist, org.hacx.hacxdaemon
+Author: hAcx <callrecorder@hacx.org>
+Maintainer: hAcx <callrecorder@hacx.org>
+Depiction: http://hacx.org/cydia/callrecorder_depiction.php
+Description: Advanced Call Recorder
+Conflicts: repo.so.callrecorder, org.hacx.superrecorder, repo.so.superrecorder
+Replaces: repo.so.callrecorder
+Size: 10591352
+MD5sum: 05945edfa10306ce50aff323f7850b5f
+Filename: debs/org.hacx.callrecorder_v2.07-3_iphoneos-arm_julioverne.deb
+
+Package: org.hacx.superrecorder
+Name: Super Recorder
+Version: 2.07-3
+Architecture: iphoneos-arm
+Icon: file:///Applications/SuperRecorder.app/Icon.png
+Section: Tweaks
+Depends: firmware (>= 6.0), mobilesubstrate, applist, org.hacx.hacxdaemon
+Author: hAcx <superrecorder@hacx.org>
+Maintainer: hAcx <superrecorder@hacx.org>
+Depiction: http://hacx.org/cydia/superrecorder_depiction.php
+Description: Call Recorder & Voice Changer
+Conflicts: repo.so.superrecorder, org.hacx.callrecorder, repo.so.callrecorder
+Replaces: repo.so.superrecorder
+Size: 21065860
+MD5sum: d7e3b8c77d645dd3a77cdd7579b830b5
+Filename: debs/org.hacx.superrecorder_v2.07-3_iphoneos-arm_julioverne.deb
+
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=volumeamplifierDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=volumeamplifierDp
+Author: Yaniv Danan (hacx) <volumeamplifier@hacx.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Volume Amplifier
+Package: org.hacx.volumeamplifier
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), org.hacx.hacxdaemon
+Section: Tweaks
+Installed-Size: 19025
+Version: 1.70
+Architecture: iphoneos-arm
+Description: Amplify volume on iPhone
+dev: hacx
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:///Library/Application%20Support/hAcx/volamp_icon_small@2x.png
+Size: 7495246
+MD5sum: 58587e6223df202f95c6431f92fb7e3e
+Filename: debs/org.hacx.volumeamplifier_v1.70_iphoneos-arm_julioverne.deb
+
+Author: ioshack <wsdhr1982@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Capture View
+Package: org.ioshack.captureview
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), actionmenu (>= 1.2.15)
+Section: Addons
+Installed-Size: 368
+Version: 1.3-3
+Architecture: iphoneos-arm
+Description: save view & scroll contents to Photo
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=captureviewDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=captureviewDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ioshack
+Tag: cydia::commercial, purpose::extension, role::enduser, ios7support::1, ios8support::1
+Size: 103792
+MD5sum: 77993ab4233da4a9274c95385e01b590
+Filename: debs/org.ioshack.captureview_v1.3-3_iphoneos-arm_julioverne.deb
+
+Author: ioshack <wsdhr1982@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Icon Tool
+Package: org.ioshack.icontool
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2), com.ericasadun.utilities
+Conflicts: com.rpetrich.iconrenamer
+Section: Tweaks
+Installed-Size: 1302
+Version: 1.9-6
+Architecture: iphoneos-arm
+Description: app tools menu from jiggle mode
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icontoolDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icontoolDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ioshack
+Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Library/PreferenceLoader/Preferences/IconTool/IconTool@2x.png
+Size: 384444
+MD5sum: 5bbcd73a6f2b15fa1cc5e15edfca549c
+Filename: debs/org.ioshack.icontool_v1.9-6_iphoneos-arm_julioverne.deb
+
+Package: org.thebigboss.allboxed
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Name: AllBoxed
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: upload any system file with Box app
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=allboxedDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=allboxedDp
+Installed-Size: 224
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Andrea Silvi <powersdeveloper@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: powersdeveloper
+Tag: cydia::commercial, purpose::extension
+Size: 57858
+MD5sum: fbf3be00ed22453abb59c043ef50b8f4
+Filename: debs/org.thebigboss.allboxed_v1.1.0_iphoneos-arm_julioverne.deb
+
+Package: org.thebigboss.alldrop
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Name: AllDrop
+Version: 1.6.0
+Architecture: iphoneos-arm
+Description: upload any system file with Dropbox app
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=alldropDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=alldropDp
+Installed-Size: 223
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Andrea Silvi <powersdeveloper@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: powersdeveloper
+Tag: cydia::commercial, purpose::extension
+Icon: file:///Library/PreferenceBundles/AllDropSettings.bundle/AllDropSettingsIcon@2x.png
+Size: 56798
+MD5sum: 390f3a22498aefea651e8a528f211aaf
+Filename: debs/org.thebigboss.alldrop_v1.6.0_iphoneos-arm_julioverne.deb
+
+Author: Brogan Miner <Broganminer22@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Anchor
+Package: org.thebigboss.anchor
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist, com.chpwn.iconsupport
+Version: 2.0.4
+Architecture: iphoneos-arm
+Description: Keep your icons where you want them.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anchorDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=anchorDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+dev: broganminer
+Installed-Size: 479
+Icon: file:///Library/PreferenceBundles/anchor.bundle/anchor-icon@2x.png
+Size: 132260
+MD5sum: 0f8e1c122d54818e00ae53126349c3b6
+Filename: debs/org.thebigboss.anchor_v2.0.4_iphoneos-arm_julioverne.deb
+
+Package: org.thebigboss.archer
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), applist(>=1.5.9), preferenceloader
+Name: Archer
+Version: 1.1.3
+Architecture: iphoneos-arm
+Description: multitasking gestures and app switching
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=archerDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=archerDp
+Installed-Size: 925
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: whynot <49888861@qq.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: whynot
+Tag: cydia::commercial, purpose::extension, ios8support::1
+Icon: file:///Library/PreferenceBundles/ArcherPrefs.bundle/Archer@2x.png
+Size: 258158
+MD5sum: 2464e56814982cb1fe629caa501e089e
+Filename: debs/org.thebigboss.archer_v1.1.3_iphoneos-arm_julioverne.deb
+
+Author: pNre <aria@pnre.co>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Aria
+Package: org.thebigboss.aria
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Version: 1.1.13-1
+Architecture: iphoneos-arm
+Description: Music tweak: queue, grid views, more...
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ariaDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ariaDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8
+dev: corelab
+Installed-Size: 1112
+Icon: file:///Library/PreferenceBundles/AriaPreferences.bundle/Aria@2x.png
+Size: 473076
+MD5sum: 324bb016c17f76800515fd956b62ffc6
+Filename: debs/org.thebigboss.aria_v1.1.13-1_iphoneos-arm_julioverne.deb
+
+Author: pNre <automa@pnre.co>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Automa
+Package: org.thebigboss.automa
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0), applist (>= 1.5), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Version: 1.0.5-1
+Architecture: iphoneos-arm
+Description: remembers popup alert choices
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=automaDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=automaDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: cydia::commercial, purpose::extension,  compatible::ios8, compatible::ios9
+dev: corelab
+Installed-Size: 437
+Icon: file:///Library/PreferenceBundles/AutomaPrefs.bundle/Automa@2x.png
+Size: 122854
+MD5sum: a5ef576cf3ded9e44f14f0890277c603
+Filename: debs/org.thebigboss.automa_v1.0.5-1_iphoneos-arm_julioverne.deb
+
+Package: org.thebigboss.batteryinfoweeapp
+Depends: firmware(>= 5.0), mobilesubstrate (>= 0.9.3901), com.chpwn.weeloader
+Name: BatteryInfo for Notification Center
+Version: 1.5-1
+Architecture: iphoneos-arm
+Description: show battery infos in Notification Center
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=batteryinfoweeappDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=batteryinfoweeappDp
+Installed-Size: 2712
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Chef von Australien <chefvonaustralien@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Addons (NotificationCenter)
+dev: chefvonaustralien
+Tag: cydia::commercial, purpose::extension, ios7support::1, ios8support::1
+Icon: file:///Applications/Preferences.app/notifications_icon@2x.png
+Size: 1353938
+MD5sum: b875aa6baa3492dfdea10ed607ee633a
+Filename: debs/org.thebigboss.batteryinfoweeapp_v1.5-1_iphoneos-arm_julioverne.deb
+
+Author: Joel Einbinder & John Corbett <support@firecaster.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Bigify+ (iOS 9/8/7)
+Package: org.thebigboss.bigifyplus8
+Depends: firmware (>= 7.1), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: com.jcorbett.bigify, org.thebigboss.bigifyplus
+Section: Tweaks
+Installed-Size: 1253
+Version: 4.3
+Architecture: iphoneos-arm
+Description: cool visual effects for app icons
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bigifyplus8Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bigifyplus8Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: jcorbett
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:///Library/PreferenceBundles/BigifyPlusSettings.bundle/lava.png
+Size: 513972
+MD5sum: 7294559199b4b9128fe88c70c8e16dde
+Filename: debs/org.thebigboss.bigifyplus8_v4.3_iphoneos-arm_julioverne.deb
+
+Package: org.thebigboss.bridge
+Depends: firmware(>= 5.0), mobilesubstrate
+Name: Bridge
+Version: 1.3.1
+Architecture: iphoneos-arm
+Description: Import media into your iTunes Library
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Jonas Gessner <support@j-gessner.de>
+Section: Multimedia
+dev: maxner
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bridgeDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bridgeDp
+Installed-Size: 16012
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:///Applications/Bridge_.app/AppIcon29x29@2x.png
+Size: 13146788
+MD5sum: 62a0c835b7ecdf0ddbf1402ee630385d
+Filename: debs/org.thebigboss.bridge_v1.3.1_iphoneos-arm_julioverne-fixed.deb
+
+Name: CameraTweak 4 (iOS 9)
+Package: org.thebigboss.cameratweak4
+Conflicts: org.thebigboss.cameratweak2, org.thebigboss.cameratweak3
+Priority: optional
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), preferenceloader (>= 2.2.2)
+Version: 0.9.4
+Architecture: iphoneos-arm
+Description: Turn your stock Camera app into a professional one!
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cameratweak4Dp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cameratweak4Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Samball <samball.dev@gmail.com>
+Section: Tweaks
+Tag: purpose::extension, cydia::commercial, compatible::ios9
+Installed-Size: 2537
+dev: samball
+Icon: file:///Library/PreferenceBundles/CT4_Prefs.bundle/CameraTweakIcon@2x.png
+Size: 892336
+MD5sum: 8f7cd7b5022a56d7ca772eef04fa7732
+Filename: debs/org.thebigboss.cameratweak4_v0.9.4_iphoneos-arm_julioverne.deb
+
+Package: org.thebigboss.ccquickpro8
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: com.cunstuck.ccquick, com.danyl.cccontrols, org.thebigboss.ccquickpro
+Name: CCQuick Pro for iOS8
+Version: 1.1-1
+Architecture: iphoneos-arm
+Description: shortcuts & powerful options for Control Center
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccquickpro8Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccquickpro8Dp
+Installed-Size: 1211
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Cunstuck <cunstuck@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: cunstuck
+Tag: purpose::extension, role::enduser, cydia::commercial, compatible::ios8
+Icon: file:///Library/PreferenceBundles/CCQuick.bundle/CCQuickIcon@2x.png
+Size: 418486
+MD5sum: 04a364737518a26aa986fad382253c93
+Filename: debs/org.thebigboss.ccquickpro8_v1.1-1_iphoneos-arm_julioverne.deb
+
+Package: org.thebigboss.ccquickpro9
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: com.cunstuck.ccquick, com.danyl.cccontrols, org.thebigboss.ccquickpro, org.thebigboss.ccquickpro8
+Name: CCQuick Pro for iOS9
+Version: 1.1-1
+Architecture: iphoneos-arm
+Description: shortcuts & powerful options for Control Center
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccquickpro9Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccquickpro9Dp
+Installed-Size: 1160
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Cunstuck <cunstuck@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: cunstuck
+Tag: purpose::extension, role::enduser, cydia::commercial, compatible::ios9
+Icon: file:///Library/PreferenceBundles/CCQuick.bundle/CCQuickIcon@2x.png
+Size: 339004
+MD5sum: cdf704926ad0c63bb52e8111a6828c3c
+Filename: debs/org.thebigboss.ccquickpro9_v1.1-1_iphoneos-arm_julioverne.deb
+
+Author: Gabriele Filipponi <gabriele.filipponi@yahoo.it>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Clex3 (iOS 9)
+Package: org.thebigboss.clex3
+Conflicts: org.thebigboss.clex, org.thebigboss.clex2
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist(>= 1.5.1), cc.tweak.libobjcipc
+Section: Tweaks
+Installed-Size: 7511
+Version: 1.1-5
+Architecture: iphoneos-arm
+Description: Awesome Controler Center for Music
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=clex3Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=clex3Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: gabrielefilipponi
+Tag: cydia::commercial, purpose::extension, compatible::ios9
+Icon: file:///Library/PreferenceBundles/ClexSettings.bundle/ClexSettingsIcon@2x.png
+Size: 3679534
+MD5sum: a04456b32d505695acd6091ac7f0c630
+Filename: debs/org.thebigboss.clex3_v1.1-5_iphoneos-arm_julioverne.deb
+
+Author: Minuit <minuits@163.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: DataMeter
+Package: org.thebigboss.datameter
+Section: Addons (NotificationCenter)
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Version: 1.3-10
+Architecture: iphoneos-arm
+Description: wifi & data traffic Notification widget
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datameterDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datameterDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+dev: minuit
+Installed-Size: 1307
+Icon: file:///Library/PreferenceBundles/DataMeterSettings.bundle/icon@2x.png
+Size: 348454
+MD5sum: 8a703e4204f01cd0cd52bbd9bb326237
+Filename: debs/org.thebigboss.datameter_v1.3-10_iphoneos-arm_julioverne.deb
+
+Author: Timm Kandziora (shinvou) <shinvou@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Dissident
+Package: org.thebigboss.dissident
+Depends: firmware (>= 8.0), mobilesubstrate, applist
+Section: Tweaks
+Installed-Size: 4318
+Version: 1.5
+Architecture: iphoneos-arm
+Description: True background management and much more.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dissidentDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dissidentDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: shinvou
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
+Icon: file:///Library/Application Support/Dissident/Icon_r@2x.png
+Size: 1313912
+MD5sum: b9d28a9d9e2ce5a5a64c3cb7833b0b3e
+Filename: debs/org.thebigboss.dissident_v1.5_iphoneos-arm_julioverne.deb
+
+Author: Brogan Miner <Broganminer22@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Genous
+Package: org.thebigboss.genous
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), com.chpwn.iconsupport
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: Different layouts for different pages.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=genousDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=genousDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: cydia::commercial, purpose::extension, compatible::ios9
+dev: broganminer
+Installed-Size: 313
+Size: 148524
+MD5sum: 64705daed349b3443e6517db4e24816f
+Filename: debs/org.thebigboss.genous_v1.0.3_iphoneos-arm_julioverne.deb
+
+Author: Minuit <minuits@163.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: GPSCheat
+Package: org.thebigboss.gpscheat
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Version: 1.1-2
+Architecture: iphoneos-arm
+Description: Use GPSCheat You Can Set a Fake Any Location On iOS7,8 and 9 Device!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gpscheatDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gpscheatDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+dev: minuit
+Installed-Size: 638
+Icon: file:///Library/PreferenceBundles/GPSCheatSettings.bundle/icon@2x.png
+Size: 195828
+MD5sum: 21cc32ab859505153c925ea92e0d6885
+Filename: debs/org.thebigboss.gpscheat_v1.1-2_iphoneos-arm_julioverne.deb
+
+Package: org.thebigboss.intube2
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Conflicts: org.thebigboss.intube
+Name: InTube 2 (iOS 8)
+Version: 2.2.5
+Architecture: iphoneos-arm
+Description: download videos from YouTube app
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=intube2Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=intube2Dp
+Installed-Size: 848
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Andrea Silvi <powersdeveloper@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: powersdeveloper
+Tag: cydia::commercial, purpose::extension, compatible::ios8
+Icon: file:///Library/PreferenceBundles/InTubeSettings.bundle/InTubeSettingsIcon@2x.png
+Size: 196784
+MD5sum: c719559ea6c63f85a8e792857db1cbb2
+Filename: debs/org.thebigboss.intube2_v2.2.5_iphoneos-arm_julioverne.deb
+
+Package: org.thebigboss.locationfaker8
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: org.thebigboss.locationchangerx
+Name: LocationFaker9
+Version: 1.2-9
+Architecture: iphoneos-arm
+Description: change your location using a map
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationfaker8Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationfaker8Dp
+Installed-Size: 1424
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Cunstuck <cunstuck@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: cunstuck
+Tag: purpose::extension, role::enduser, cydia::commercial, compatible::ios8, compatible::ios9
+Icon: file:///Applications/LocationChanger.app/icon.png
+Size: 558912
+MD5sum: 4fa0acaa4bd411170e2ed3984f69b262
+Filename: debs/org.thebigboss.locationfaker8_v1.2-9_iphoneos-arm_julioverne.deb
+
+Package: org.thebigboss.locationhandle
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: org.thebigboss.locationchangerx, org.thebigboss.locationfaker9, org.thebigboss.routefaker
+Name: LocationHandle
+Version: 1.0-6
+Architecture: iphoneos-arm
+Description: change your real location in any App
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationhandleDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationhandleDp
+Installed-Size: 1543
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Cunstuck <cunstuck@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: cunstuck
+Tag: purpose::extension, role::enduser, cydia::commercial, compatible::ios9
+Icon: file:///Applications/LocationHandle.app/AppIcon29x29@2x.png
+Size: 714612
+MD5sum: 855234a5f74b05fffb6afcbf6ca3782a
+Filename: debs/org.thebigboss.locationhandle_v1.0-6_iphoneos-arm_julioverne.deb
+
+Package: org.thebigboss.lsweather
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Name: LSWeather
+Version: 1.3.2
+Architecture: iphoneos-arm
+Description: weather info as slide to unlock text
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lsweatherDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lsweatherDp
+Installed-Size: 482
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: whynot <49888861@qq.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: whynot
+Tag: cydia::commercial, purpose::extension, ios7support::1, ios8support::1
+Icon: file:///Library/PreferenceBundles/LSWeatherPrefs.bundle/Icon@2x.png
+Size: 148968
+MD5sum: dbc8f6223071de78a0fb3436c088bc0c
+Filename: debs/org.thebigboss.lsweather_v1.3.2_iphoneos-arm_julioverne.deb
+
+Package: org.thebigboss.lylac
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, applist
+Conflicts: tw.garynil.swipehome, com.cpdigitaldarkroom.legacyswitcher, com.skylerk99.switchertweak, com.skylerk99.rehctiws, org.thebigboss.slide2kill9, org.thebigboss.switchertweakpro, me.chewitt.seng
+Name: Lylac
+Version: 1.0.10
+Architecture: iphoneos-arm
+Description: enhance iOS 9 app switcher and more
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lylacDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lylacDp
+Installed-Size: 1353
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Gary niL <garynil1635@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: garynil
+Tag: cydia::commercial, purpose::extension, compatible::ios9
+Icon: file:///Library/PreferenceBundles/Lylac.bundle/icon@2x.png
+Size: 560870
+MD5sum: 0ba04146bce1f3b8dfa5553616a11ec1
+Filename: debs/org.thebigboss.lylac_v1.0.10_iphoneos-arm_julioverne.deb
+
+Name: MiniPlayer
+Package: org.thebigboss.miniplayer
+Priority: optional
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libactivator, applist
+Version: 3.2-1
+Architecture: iphoneos-arm
+Description: Experience iTunes 11 MiniPlayer on iOS
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=miniplayerDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=miniplayerDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: MPow & Surenix <alexx91@gmail.com>
+Section: Tweaks
+Tag: purpose::extension, cydia::commercial, ios7support::1, ios8support::1
+Installed-Size: 4411
+dev: alexx91
+Icon: file:///Library/PreferenceBundles/MiniPlayer.bundle/Icon-Small@2x.png
+Size: 1574994
+MD5sum: 7513da9ff51d38772dc150c31b9637d8
+Filename: debs/org.thebigboss.miniplayer_v3.2-1_iphoneos-arm_julioverne.deb
+
+Author: J. Corbett & J. Einbinder <support@firecaster.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Multify
+Package: org.thebigboss.multify
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libactivator, applist, cc.tweak.libobjcipc
+Section: Tweaks
+Installed-Size: 2512
+Version: 1.0.4-2
+Architecture: iphoneos-arm
+Description: side by side multitasking for iOS
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=multifyDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=multifyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: multify
+Tag: cydia::commercial, purpose::extension, compatible::ios8
+Icon: file:///Library/PreferenceBundles/MultifySettings.bundle/icon@2x.png
+Size: 1867106
+MD5sum: f5a2cd2d6ee2ff70465b21fb7f58dbc8
+Filename: debs/org.thebigboss.multify_v1.0.4-2_iphoneos-arm_julioverne.deb
+
+Author: Minuit <minuits@163.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: NCFold
+Package: org.thebigboss.ncfold
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Version: 1.1-3
+Architecture: iphoneos-arm
+Description: fold notifications & more display options
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ncfoldDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ncfoldDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8
+dev: minuit
+Installed-Size: 313
+Icon: file:///Library/PreferenceBundles/NCFoldSettings.bundle/icon@2x.png
+Size: 44484
+MD5sum: af553238114f349aa0fbe5a36dd9f87c
+Filename: debs/org.thebigboss.ncfold_v1.1-3_iphoneos-arm_julioverne.deb
+
+Package: org.thebigboss.protube
+Depends: firmware(>= 4.0), preferenceloader
+Name: ProTube
+Version: 1.12.1
+Architecture: iphoneos-arm
+Description: complete feature-filled YouTube app
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Jonas Gessner <support@j-gessner.de>
+Section: Multimedia
+dev: maxner
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=protubeDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=protubeDp
+Installed-Size: 11018
+Tag: cydia::commercial, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:///Applications/ProTube.app/icon.png
+Size: 7506672
+MD5sum: 2e434a04effa40bc63f6307098d1d22f
+Filename: debs/org.thebigboss.protube_v1.12.1_iphoneos-arm_julioverne-fixed.deb
+
+Package: org.thebigboss.protubehd
+Depends: firmware(>= 4.3), preferenceloader
+Name: ProTube HD
+Version: 1.12.1
+Architecture: iphoneos-arm
+Description: complete feature-filled YouTube app for iPad
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Jonas Gessner <support@j-gessner.de>
+Section: Multimedia
+dev: maxner
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=protubehdDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=protubehdDp
+Installed-Size: 16012
+Tag: cydia::commercial, compatible::ios7, compatible::ios8, compatible::ios9
+Icon: file:///Applications/ProTubeHD.app/icon.png
+Size: 12980038
+MD5sum: a84a17d21cee37e97bef5686dffa9f9c
+Filename: debs/org.thebigboss.protubehd_v1.12.1_iphoneos-arm_julioverne-fixed.deb
+
+Package: org.thebigboss.sphereview
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Name: SphereView
+Version: 1.2-4
+Architecture: iphoneos-arm
+Description: home screen as zoomable 3D Sphere
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sphereviewDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sphereviewDp
+Installed-Size: 5311
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: va2ron1 <va2ron1@hotmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: va2ron1
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
+Icon: file:///Library/PreferenceBundles/SphereViewSettings.bundle/icon-small@2x.png
+Size: 2569240
+MD5sum: 7bc42f346922d97e80d826e24f6823e2
+Filename: debs/org.thebigboss.sphereview_v1.2-4_iphoneos-arm_julioverne.deb
+
+Package: org.thebigboss.worldclock7
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Name: World Clock 7
+Version: 1.0.7-13
+Architecture: iphoneos-arm
+Description: Three clocks displayed on your lockscreen
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=worldclock7Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=worldclock7Dp
+Installed-Size: 215
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Gilles PETIT <f4hla@free.fr>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: f4hla
+Tag: cydia::commercial, purpose::extension, ios7support::1, ios8support::1
+Icon: file:///Library/PreferenceBundles/worldclock7prefs.bundle/worldclock7prefs@2x.png
+Size: 46368
+MD5sum: 4ca8c2ef7d2f429500fbca30e51d20e0
+Filename: debs/org.thebigboss.worldclock7_v1.0.7-13_iphoneos-arm_julioverne.deb
+
+Package: pwntunes
+Name: PwnTunes
+Version: 1.4.0.8
+Architecture: iphoneos-arm
+Icon: file:///Applications/PwnTunes.app/Icon.png
+Description: Drag&Drop Music Import without iTunes... - like USBStick,PictureFileLibraryImportExportSyncStoreShareTransferMP3ID3DCIMPhotosVideosSongsSupportsiFileMewSeekCelesteReplacesSwapTunesMP3PlayeriPodNoCrack
+Homepage: http://www.pwntunes.net/
+Depiction: http://www.pwntunes.net/cydia/pwntunes/
+Depends: mobilesubstrate (>= 0.9.3993), firmware (>= 3.0), shell-cmds, preferenceloader
+Maintainer: SpiritOfLogic <support@pwntunes.net>
+Author: SpiritOfLogic <support@pwntunes.net>
+Sponsor: thebigboss.org <http://bigboss@thebigboss.org/>
+Section: Tweaks
+dev: spiritoflogic
+Tag: purpose::extension, purpose::commercial, cydia::commercial, role::enduser
+Size: 551460
+MD5sum: 19ce64cfb5cbaa31475c509c192e49a1
+Filename: debs/pwntunes_v1.4.0.8_iphoneos-arm_julioverne.deb
+
+Author: Hiraku <dev@hiraku.tw>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: iKeywi 3 (iOS 8/9/10)
+Package: tw.hiraku.ikeywi3
+Conflicts: org.thebigboss.ikeywi, tw.hiraku.ikeywi2, com.tw3pole.exkey, gsc.ipad
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
+Version: 3.2.2
+Architecture: iphoneos-arm
+Description: Customizable Extra Row for Keyboards
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ikeywi3Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ikeywi3Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
+dev: hiraku
+Installed-Size: 1006
+Icon: file:///Library/PreferenceBundles/iKeywi3.bundle/Icon@2x.png
+Size: 395698
+MD5sum: cdc07650ca7d849be507a824556d4f5a
+Filename: debs/tw.hiraku.ikeywi3_v3.2.2_iphoneos-arm_julioverne.deb
+
